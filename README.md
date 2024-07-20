@@ -2,9 +2,9 @@
 
 billboard1 : 5 Juli 2024
 billboard2 : 
-billboard3 : 8 Juli 2024
+billboard3 : 8 Juli 2024, pause 20 Juli 2024
 billboard4 : 16 Juli 2024
-billboard5 : 18 Juni 2024
+billboard5 : 18 Juli 2024
 
 poster1 :
 poster2 :
