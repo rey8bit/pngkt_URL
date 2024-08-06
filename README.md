@@ -1,7 +1,7 @@
 # pngkt_URL
 
 billboard1 : 23 Juli 2024
-billboard2 : 5 Juli 2024 (expired)
+billboard2 : 5 Juli 2024 (extended)
 billboard3 : 8 Juli 2024
 billboard4 : 16 Juli 2024
 billboard5 : 18 Juli 2024
