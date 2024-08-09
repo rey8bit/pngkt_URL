@@ -1,12 +1,12 @@
 # pngkt_URL
 
-billboard1 : 23 Juli 2024
-billboard2 : 5 Juli 2024 (extended)
-billboard3 : 8 Juli 2024
-billboard4 : 16 Juli 2024
-billboard5 : 18 Juli 2024
+billboard1 : 23 Juli 2024 Ryubie
+billboard2 : 5 Agustus 2024 (extended) gustavdare
+billboard3 : 8 Agustus 2024 (extended) gustavdare
+billboard4 : 16 Juli 2024 gustavdare
+billboard5 : 18 Juli 2024 gustavdare
 
-poster1 : 21 Juli 2024
+poster1 : 21 Juli 2024 YoungLee
 poster2 :
 poster3 :
 poster4 :
