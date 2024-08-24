@@ -1,6 +1,6 @@
 # pngkt_URL
 
-billboard1 : 23 Juli 2024 Ryubie (LewdLilly booking)
+billboard1 : 25 Agustus 2024 LewdLilyy
 billboard2 : 5 Agustus 2024 (extended) gustavdare
 billboard3 : 8 Agustus 2024 (extended) gustavdare
 billboard4 : 16 Agustus 2024 (extended) gustavdare
