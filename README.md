@@ -12,7 +12,7 @@ billboard5 : 11 Agustus 2024 lewdlilyy (1 week left 18 Juli 2024 gustavdare)
 
 billboard6 : 20 Agustus 2024 NekoCyril [1 bulan]
 
-billboard7 : 1 September 2024 Syazeraw
+billboard7 : 1 September 2024 Syazeraw [2 bulan]
 
 billboard8 :
 
