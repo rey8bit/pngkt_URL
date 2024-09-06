@@ -1,18 +1,18 @@
 # pngkt_URL
 
-billboard1 : 25 Agustus 2024 LewdLilyy [1 bulan]
+billboard1 : 25 Agustus 2024 LewdLilyy [30 hari]
 
-billboard2 : 5 Agustus 2024 (extended) gustavdare [booking : Ryubie]
+billboard2 : 6 September 2024  (Ryubie) [30 hari]
 
 billboard3 : 8 Agustus 2024 (extended) gustavdare
 
 billboard4 : 16 Agustus 2024 (extended) gustavdare
 
-billboard5 : 11 Agustus 2024 lewdlilyy (1 week left 18 Juli 2024 gustavdare)
+billboard5 : 11 Agustus 2024 lewdlilyyy (1 week left 18 Juli 2024 gustavdare)
 
-billboard6 : 20 Agustus 2024 NekoCyril [1 bulan]
+billboard6 : 20 Agustus 2024 NekoCyril [30 hari]
 
-billboard7 : 1 September 2024 Syazeraw [2 bulan]
+billboard7 : 1 September 2024 Syazeraw [60 hari]
 
 billboard8 :
 
