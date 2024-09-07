@@ -4,9 +4,9 @@ billboard1 : 25 Agustus 2024 LewdLilyy [30 hari]
 
 billboard2 : 6 September 2024  (Ryubie) [30 hari]
 
-billboard3 : 8 Agustus 2024 (extended) gustavdare
+billboard3 : [booking : ItsNexus]
 
-billboard4 : 16 Agustus 2024 (extended) gustavdare
+billboard4 : 16 Agustus 2024 (extended) gustavdare  [booking : wildan nfs]
 
 billboard5 : 11 Agustus 2024 lewdlilyyy (1 week left 18 Juli 2024 gustavdare)
 
