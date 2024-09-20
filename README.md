@@ -6,9 +6,9 @@ billboard2 : 6 September 2024  (Ryubie) [30 hari]
 
 billboard3 : [booking : ItsNexus]
 
-billboard4 : 16 September 2024 wildan nfs
+billboard4 : 16 September 2024 wildan nfs [30 hari]
 
-billboard5 : 11 Agustus 2024 lewdlilyyy (1 week left 18 Juli 2024 gustavdare)
+billboard5 : 25 September 2024 KynCore [30 hari]
 
 billboard6 : 20 Agustus 2024 NekoCyril [30 hari]
 
