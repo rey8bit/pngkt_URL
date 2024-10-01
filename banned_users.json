@@ -1,0 +1,7 @@
+{
+  "bannedUsers": [
+    { "userId": "player123", "reason": "Toxic behavior" },
+    { "userId": "player456", "reason": "Cheating" },
+    { "userId": "player789", "reason": "Harassment" }
+  ]
+}
