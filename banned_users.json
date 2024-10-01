@@ -1,6 +1,6 @@
 {
   "bannedUsers": [
-    { "userId": "player123", "reason": "Toxic behavior" },
+    { "userId": "usr_4869a2f3-cd53-4296-b0ff-1f218668836d", "reason": "testing" },
     { "userId": "player456", "reason": "Cheating" },
     { "userId": "player789", "reason": "Harassment" }
   ]
