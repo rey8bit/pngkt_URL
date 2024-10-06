@@ -8,11 +8,11 @@ billboard3 : 5 Oktober 2024 (Qrotoq) [31 hari] [booking : ItsNexus]
 
 billboard4 : 16 September 2024 wildan nfs [30 hari]
 
-billboard5 : 25 September 2024 KynCore [30 hari]
+billboard5 : 25 September 2024 KynCore [60 hari]
 
 billboard6 : 20 September 2024 NekoCyril [30 hari]
 
-billboard7 : 6 Oktober 2024 Seira 
+billboard7 : 6 Oktober 2024 Seira [30 hari]
 
 billboard8 :
 
