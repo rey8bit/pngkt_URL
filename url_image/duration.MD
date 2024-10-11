@@ -19,7 +19,7 @@ billboard8 :
 
 billboard9 :
 
-billboard10 : 10 September 2024 Muso! [30 hari]
+billboard10 : 10 Oktober 2024 Muso! [30 hari]
 
 poster1 :
 
