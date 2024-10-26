@@ -17,11 +17,11 @@ billboard7 : 6 Oktober 2024 Seira [30 hari]
 
 billboard8 :
 
-billboard9 :
+billboard9 : 26 Oktober 2024 (bloodtypea) [30 hari]
 
 billboard10 : 10 Oktober 2024 Muso! [30 hari]
 
-billboard11 :
+billboard11 : 26 Oktober 2024 (bloodtypea) [30 hari]
 
 poster1 :
 
