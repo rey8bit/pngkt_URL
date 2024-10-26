@@ -23,12 +23,12 @@ billboard10 : 10 Oktober 2024 Muso! [30 hari]
 
 billboard11 : 26 Oktober 2024 (bloodtypea) [30 hari]
 
-poster1 :
+poster1 : [event]
 
-poster2 :
+poster2 : [event]
 
-poster3 :
+poster3 : [event]
 
-poster4 :
+poster4 : [event]
 
-poster5 :
+poster5 : [event]
