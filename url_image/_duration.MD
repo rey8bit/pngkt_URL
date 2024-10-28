@@ -3,7 +3,7 @@ pngkt_URL
 
 billboard1 : 1 Oktober 2024 Syazeraw [60 hari]
 
-billboard2 : 6 Oktober 2024 (Ryubie) [30 hari]
+billboard2 : [pending for event. 9 days] 6 Oktober 2024 (Ryubie) [30 hari]
 
 billboard3 : 5 Oktober 2024 (Qrotoq) [31 hari] [booking : ItsNexus]
 
