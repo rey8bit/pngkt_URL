@@ -9,7 +9,7 @@ billboard3 : 5 Oktober 2024 (Qrotoq) [31 hari] [booking : ItsNexus]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
-billboard5 : 25 September 2024 KynCore [60 hari]
+billboard5 : [pending for event, 28 days] 25 September 2024 KynCore [60 hari]
 
 billboard6 : 22 Oktober 2024 (LerNa) [30 hari]
 
