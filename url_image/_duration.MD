@@ -3,9 +3,9 @@ pngkt_URL
 
 billboard1 : 1 Oktober 2024 Syazeraw [60 hari]
 
-billboard2 :  [booking : oni]
+billboard2 : event [booking : oni]
 
-billboard3 :  [booking : ItsNexus]
+billboard3 : [booking : ItsNexus]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
