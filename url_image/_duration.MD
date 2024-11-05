@@ -5,7 +5,7 @@ billboard1 : 1 Oktober 2024 Syazeraw [60 hari]
 
 billboard2 : 5 November 2024 Ryubie [30 hari] 
 
-billboard3 : [booking : oni]
+billboard3 : 
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
