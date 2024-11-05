@@ -5,7 +5,7 @@ billboard1 : 1 Oktober 2024 Syazeraw [60 hari]
 
 billboard2 : 5 November 2024 Ryubie [30 hari] 
 
-billboard3 : 
+billboard3 : 26 Oktober 2024 (bloodtypea) [30 hari]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
@@ -15,9 +15,9 @@ billboard6 : 22 Oktober 2024 (LerNa) [30 hari]
 
 billboard7 : [booking : oni]
 
-billboard8 :
+billboard8 : 
 
-billboard9 : 26 Oktober 2024 (bloodtypea) [30 hari]
+billboard9 : 
 
 billboard10 : 10 Oktober 2024 Muso! [30 hari]
 
