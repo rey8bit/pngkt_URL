@@ -11,7 +11,7 @@ billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
 billboard5 : 5 Oktober 2024 KynCore [28 hari]
 
-billboard6 : 22 Oktober 2024 (LerNa) [30 hari]
+billboard6 :  26 Oktober 2024 (bloodtypea) [30 hari]
 
 billboard7 : [booking : oni]
 
@@ -19,9 +19,9 @@ billboard8 :
 
 billboard9 : 
 
-billboard10 : 10 Oktober 2024 Muso! [30 hari]
+billboard10 : 
 
-billboard11 : 26 Oktober 2024 (bloodtypea) [30 hari]
+billboard11 : 
 
 poster1 : [event]
 
@@ -32,3 +32,5 @@ poster3 : [event]
 poster4 : [event]
 
 poster5 : [event]
+
+izin cabut : 22 Oktober 2024 (LerNa) [30 hari]
