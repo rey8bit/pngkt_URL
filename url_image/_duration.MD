@@ -9,7 +9,7 @@ billboard3 : 26 Oktober 2024 (bloodtypea) [30 hari]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
-billboard5 : 27 Oktober 2024 (LerNa) [30 hari + 30 hari]
+billboard5 : 27 Oktober 2024 (LerNa) [30 hari + 30 hari (2024/11/14)]
 
 billboard6 :  26 Oktober 2024 (bloodtypea) [30 hari]
 
