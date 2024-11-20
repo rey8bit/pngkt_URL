@@ -9,7 +9,7 @@ billboard3 : 26 Oktober 2024 (bloodtypea) [30 hari]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
-billboard5 : 25 September 2024 KynCore [60 hari]
+billboard5 : 25 September 2024 KynCore [60 hari + 30 hari (2024/11/19)]
 
 billboard6 : 27 Oktober 2024 (LerNa) [30 hari + 60 hari (2024/11/15)] 
 
