@@ -1,4 +1,4 @@
-# pngkt_URL
+# pngkt_URL (pindah ke url_image/_duration.md)
 
 billboard1 : 1 Oktober 2024 Syazeraw [60 hari]
 
