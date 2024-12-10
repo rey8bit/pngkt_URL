@@ -5,7 +5,7 @@ billboard1 :
 
 billboard2 :  
 
-billboard3 : 26 Oktober 2024 (bloodtypea) [30 +30 hari]
+billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 hari]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
@@ -19,7 +19,7 @@ billboard8 :
 
 billboard9 : 
 
-billboard10 : 26 Oktober 2024 (bloodtypea) [30 hari]
+billboard10 : 26 Oktober 2024 (bloodtypea) [30 + 30 hari]
 
 billboard11 : 
 
