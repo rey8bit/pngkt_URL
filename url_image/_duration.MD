@@ -1,11 +1,11 @@
 pngkt_URL
 
 
-billboard1 : 1 Oktober 2024 Syazeraw [60 hari]
+billboard1 : 
 
-billboard2 : 5 November 2024 Ryubie [30 hari] 
+billboard2 :  
 
-billboard3 : 26 Oktober 2024 (bloodtypea) [30 hari]
+billboard3 : 26 Oktober 2024 (bloodtypea) [30 +30 hari]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
