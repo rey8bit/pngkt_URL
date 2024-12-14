@@ -9,7 +9,7 @@ billboard3 : 27 Oktober 2024 (LerNa) [30 hari + 60 hari (2024/11/15)]
 
 billboard4 : 21 Oktober 2024 (NekoCyril) [30 hari]
 
-billboard5 : 25 September 2024 KynCore [60 hari + 30 hari (2024/11/19)]
+billboard5 : 25 September 2024 KynCore [60 hari + 30 hari + 30 hari (perpanjangan 2024/12/15)]
 
 billboard6 : 
 
