@@ -1,9 +1,11 @@
-Update 2025.01.04
+bUpdate 2025.01.04
 
 - Menganti billiard dari MS-VRCSA Billiards buatan Neko Mabel and Sacchan
 - Menambah Snappable Chess Set, Deck of Cards, dan Security Camera buatan VowganVR
 - Pengaturan QVPen dari 60 detik menjadi 180 detik
-- dll
+- Menambah Log Upddate (VRC-Simple-String-Loader oleh DrBlackRat)
+- Update kode "no gravity"
+- dan beberapa optimisasi
 
 Terimakasih :D
 
@@ -21,12 +23,6 @@ Terimakasih :D
 12
 13
 14
-15
-16
-17
-18
-19
-20
 
 heh ngapain scroll ke bawah
 ini masih nyoba nyoba :v
