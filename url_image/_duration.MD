@@ -11,7 +11,7 @@ billboard4 : 27 Oktober 2024 (LerNa) [30 hari + 60 hari (2024/11/15)]
 
 billboard5 : 25 September 2024 KynCore [60 hari + 30 hari + 60 hari (perpanjangan 2024/12/15)]
 
-billboard6 : 
+billboard6 : 6 Januari 2025 Rerumi [60 hari]
 
 billboard7 : 
 
