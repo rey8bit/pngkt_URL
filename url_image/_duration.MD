@@ -19,18 +19,18 @@ billboard8 :
 
 billboard9 : 
 
-billboard10 : 29 Desember 2024 (brownice) [30 hari] 
+billboard10 : 29 Desember 2024 (brownice) [30 hari + 30 hari (perpanjangan 2025/01/19)] 
 
 billboard11 : 
 
-poster1 : [event]
+poster1 :
 
-poster2 : [event]
+poster2 : 19 Januari 2025 (brownice) [30 hari] 
 
-poster3 : [event]
+poster3 : 
 
-poster4 : [event]
+poster4 : 19 Januari 2025 (brownice) [30 hari] 
 
-poster5 : [event]
+poster5 : 
 
 temp pause : 
