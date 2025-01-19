@@ -7,7 +7,7 @@ billboard2 : 11 Desember 2024 (Ryubie) [30 hari + 30 hari] (perpanjangan 2025/1/
 
 billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 hari (perpanjangan 2024/12/23]
 
-billboard4 : 27 Oktober 2024 (LerNa) [30 hari + 60 hari (2024/11/15)] 
+billboard4 : 27 Oktober 2024 (LerNa) [30 hari + 60 hari + 30 hari (perpanjangan 2025/1/27)] 
 
 billboard5 : 25 September 2024 KynCore [60 hari + 30 hari + 60 hari (perpanjangan 2024/12/15)]
 
