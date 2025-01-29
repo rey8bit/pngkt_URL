@@ -1,11 +1,11 @@
 pngkt_URL
 
 
-billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 hari (perpanjangan 2024/12/23]
+billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 hari (perpanjangan 2025/1/23]
 
 billboard2 : 11 Desember 2024 (Ryubie) [30 hari + 30 hari] (perpanjangan 2025/1/7)
 
-billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 hari (perpanjangan 2024/12/23]
+billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 hari (perpanjangan 2025/1/23]
 
 billboard4 : 27 Oktober 2024 (LerNa) [30 hari + 60 hari + 30 hari (perpanjangan 2025/1/27)] 
 
