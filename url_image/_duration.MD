@@ -3,8 +3,7 @@ pngkt_URL
 
 billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 hari (perpanjangan 2025/1/23]
 
-billboard2 : 11 Desember 2024 (Ryubie) [30 hari + 30 hari] (perpanjangan 2025/1/7)
-              booking : Matsushina
+billboard2 : 11 Februari 2025 (neeyona) [90 hari pertama]
 
 billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 hari (perpanjangan 2025/1/23]
 
