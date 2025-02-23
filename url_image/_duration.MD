@@ -25,11 +25,11 @@ billboard11 :
 
 poster1 :
 
-poster2 : 19 Januari 2025 (brownice) [30 hari] 
+poster2 :
 
 poster3 : 
 
-poster4 : 19 Januari 2025 (brownice) [30 hari] 
+poster4 :
 
 poster5 : 
 
