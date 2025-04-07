@@ -21,7 +21,7 @@ billboard9 :
 
 billboard10 : 29 Desember 2024 (brownice) [30 hari + 30 hari + 30 hari (perpanjangan baru 2025/03/26)] 
 
-billboard11 : 
+billboard11 : 21 Maret 2025 (kangkong_id) [30 hari pertama]
 
 poster1 :
 
