@@ -7,7 +7,7 @@ billboard2 : 11 Februari 2025 (neeyona) [90 hari pertama]
 
 billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/3/22]
 
-billboard4 : 27 Oktober 2024 (LerNa) [30 hari + 60 hari + 30 hari (perpanjangan 2025/1/27)] 
+billboard4 :  
 
 billboard5 : 25 September 2024 KynCore [60 hari + 30 hari + 60 hari + 60 hari (perpanjangan 2025/02/03)]
 
