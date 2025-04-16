@@ -10,6 +10,7 @@ Syarat pasang iklan di billboard :
 - Poster aspek rasio 3:4
 - Maksimal piksel panjang maupun lebar 2048 piksel
 - Format PNG
+- Biaya per bulan 50rb (pertama kali pasang 20rb, maksimal 2 bulan)
 
 Catatan : Diluar topik VRChat/Vtuber ada biaya tambahan 25rb
 
