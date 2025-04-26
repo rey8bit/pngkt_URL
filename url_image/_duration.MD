@@ -9,7 +9,7 @@ billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 hari
 
 billboard4 :  
 
-billboard5 : 25 September 2024 KynCore [60 hari + 30 hari + 60 hari + 60 hari (perpanjangan 2025/02/03)]
+billboard5 : 25 September 2024 KynCore [60 hari + 30 hari + 60 hari + 60 + 60 hari (perpanjangan 2025/04/26)]
 
 billboard6 : 
 
