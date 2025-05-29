@@ -19,7 +19,7 @@ billboard8 :
 
 billboard9 : 
 
-billboard10 : 19 Desember 2024 (brownice) [30 hari + 30 hari + 30 hari + 60 hari (perpanjangan baru 2025/05/19)] 
+billboard10 : 19 Desember 2024 (brownice) [30 + 30 + 30 + 30 + 60 hari (perpanjangan baru 2025/05/19)] 
 
 billboard11 : 
 
