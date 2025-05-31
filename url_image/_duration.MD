@@ -11,9 +11,9 @@ billboard4 :  07 Mei 2025 (今日もkawaii) [60 hari pertama]
 
 billboard5 : 25 September 2024 KynCore [60 + 30 + 60 + 60 + 60 hari (perpanjangan 2025/04/26)]
 
-billboard6 : 
+billboard6 : booking Rishua
 
-billboard7 : 
+billboard7 : booking Rishua
 
 billboard8 : 
 
