@@ -1,10 +1,10 @@
-Update 2025.05.04 [SDK 3.8.1 beta-1] WIP
+Update 2025.06.07 [SDK 3.8.1] WIP
 
 - penambahan PositionSync (Presistence data)
-- sedikit update sementara
-- penghapusan sementara beberapa prefabs dan mesh
-- penghapusan sementara Chikuwa Vehicles System 2 (CVS 2)
-- beberapa pengoptimisasian world dan mesh
+- penambahan LOD beberapa properti statik
+- penambahan UdonSharpOptimizer oleh BlueAmulet
+- pengembalian Chikuwa Vehicle System 2
+- beberapa fix-fix kecil
 
 MS-VRCSA Billiards buatan Neko Mabel and Sacchan
 Snappable Chess Set buatan VowganVR
