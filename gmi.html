@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Garry's Mod Loading Screen</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            font-family: 'Arial', sans-serif;
+            color: white;
+        }
+        
+        .background {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            background-image: url('https://rey8bit.github.io/pngkt_URL/gmod_image/loading.jpeg');
+            background-size: cover;
+            background-position: center;
+            filter: blur(2px);
+            z-index: -1;
+        }
+        
+        .content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        
+        .logo {
+            max-width: 300px;
+            margin-bottom: 20px;
+        }
+        
+        .loading-bar-container {
+            width: 50%;
+            max-width: 500px;
+            height: 20px;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            margin-top: 20px;
+            overflow: hidden;
+        }
+        
+        .loading-bar {
+            height: 100%;
+            width: 0%;
+            background-color: #4CAF50;
+            border-radius: 10px;
+            transition: width 0.3s ease;
+        }
+        
+        .loading-text {
+            margin-top: 15px;
+            font-size: 18px;
+            color: #ddd;
+        }
+        
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px #000;
+        }
+        
+        p {
+            font-size: 16px;
+            max-width: 80%;
+            text-shadow: 1px 1px 2px #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="background"></div>
+    
+    <div class="content">
+        <!-- Ganti dengan logo server Anda jika ada -->
+        <img class="logo" src="https://rey8bit.github.io/pngkt_URL/gmod_image/logo.jpg" alt="Server Logo">
+        
+        <h1>Garry's Mod Indonesia</h1>
+        <p>Sedang menunggu game</p>
+
+    </div>
+
+    <script>
+        // Fungsi untuk update loading bar
+        function updateLoading(percent, text) {
+            document.getElementById('loadingBar').style.width = percent + '%';
+            document.getElementById('loadingText').innerHTML = text || ('Loading: ' + percent + '%');
+        }
+        
+        // Ini akan dipanggil oleh Garry's Mod
+        window.SetLoadingProgress = function(percent) {
+            updateLoading(percent);
+        };
+        
+        // Contoh animasi loading (untuk preview saja)
+        // Hapus bagian ini jika tidak diperlukan
+        let progress = 0;
+        const demoInterval = setInterval(() => {
+            progress += 2;
+            if (progress > 100) {
+                clearInterval(demoInterval);
+                return;
+            }
+            updateLoading(progress);
+        }, 100);
+    </script>
+</body>
+</html>
