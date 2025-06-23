@@ -15,7 +15,7 @@ billboard6 : 04 Juni 2025 Rishua [60 hari pertama]
 
 billboard7 : 04 Juni 2025 Rishua [60 hari pertama]
 
-billboard8 : 
+billboard8 : 23 Juni 2025 Noche Haivest [60 hari pertama]
 
 billboard9 : 
 
