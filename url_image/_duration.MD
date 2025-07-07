@@ -37,3 +37,5 @@ temp pause :
 
 posisi :
 billboard 1 = depan warmindo, billboard2 = depan warnet, billboard3 = atas becak, billboard4 = atas truck pickup, billboard5 = atas adameng, billboard6 7 = atas indomangan, billboard8 = depang rm padang, billboard9 = depan bangunan wip, billboard 10 = depan pom bensin, billboard11 = hutan putih
+
+event : 1. panggung 2. minigame cari barang
