@@ -1,1 +1,367 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Status Papan Iklan & Acara</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Status Papan Iklan & Informasi Acara</h1>
+        <p>Selamat datang di halaman status papan iklan dan informasi acara kami. Di sini Anda dapat menemukan detail mengenai penempatan iklan dan jadwal terbaru.</p>
 
+        <h2>Status Papan Iklan (Billboards)</h2>
+
+        <div class="billboard-item">
+            <div class="billboard-header" onclick="toggleBillboard('billboard1-content', 'billboard1-toggle')">
+                <h3>Billboard 1: Depan Warmindo</h3>
+                <button class="toggle-btn" id="billboard1-toggle">&#9654;</button> </div>
+            <div class="billboard-content" id="billboard1-content">
+                <p><strong>Tanggal Mulai:</strong> 26 Oktober 2024</p>
+                <p><strong>Klien:</strong> bloodtypea</p>
+                <p><strong>Durasi & Perpanjangan:</strong> 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari (perpanjangan 27 Juni 2025)</p>
+                <p><strong>Posisi:</strong> Depan Warmindo</p>
+
+                <h4>Galeri Gambar Billboard 1</h4>
+                <div class="carousel-container" id="carousel-billboard1">
+                    <div class="carousel-ratio-box"> <div class="carousel-wrapper"> </div> </div> <button class="carousel-nav-btn prev-slide" onclick="changeSlide('carousel-billboard1', -1)">&#10094;</button>
+                    <button class="carousel-nav-btn next-slide" onclick="changeSlide('carousel-billboard1', 1)">&#10095;</button>
+                    <div class="slide-dots">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="billboard-item">
+            <div class="billboard-header" onclick="toggleBillboard('billboard2-content', 'billboard2-toggle')">
+                <h3>Billboard 2: Depan Warnet</h3>
+                <button class="toggle-btn" id="billboard2-toggle">&#9654;</button>
+            </div>
+            <div class="billboard-content" id="billboard2-content">
+                <p><strong>Tanggal Mulai:</strong> 27 Mei 2025</p>
+                <p><strong>Klien:</strong> Yurnero-</p>
+                <p><strong>Durasi & Perpanjangan:</strong> 60 hari</p>
+                <p><strong>Posisi:</strong> Depan Warnet</p>
+                </div>
+        </div>
+
+        <div class="billboard-item">
+            <div class="billboard-header" onclick="toggleBillboard('billboard3-content', 'billboard3-toggle')">
+                <h3>Billboard 3: Atas Becak</h3>
+                <button class="toggle-btn" id="billboard3-toggle">&#9654;</button>
+            </div>
+            <div class="billboard-content" id="billboard3-content">
+                <p><strong>Tanggal Mulai:</strong> 26 Oktober 2024</p>
+                <p><strong>Klien:</strong> bloodtypea</p>
+                <p><strong>Durasi & Perpanjangan:</strong> 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari (perpanjangan 27 Juni 2025)</p>
+                <p><strong>Posisi:</strong> Atas Becak</p>
+            </div>
+        </div>
+
+        <h2>Ikhtisar Cepat Billboards</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Papan Iklan</th>
+                    <th>Tanggal Mulai</th>
+                    <th>Klien</th>
+                    <th>Durasi & Perpanjangan</th>
+                    <th>Posisi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Billboard 1</strong></td>
+                    <td>26 Oktober 2024</td>
+                    <td>bloodtypea</td>
+                    <td>30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari (perpanjangan 27 Juni 2025)</td>
+                    <td>Depan Warmindo</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 2</strong></td>
+                    <td>27 Mei 2025</td>
+                    <td>Yurnero-</td>
+                    <td>60 hari</td>
+                    <td>Depan Warnet</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 3</strong></td>
+                    <td>26 Oktober 2024</td>
+                    <td>bloodtypea</td>
+                    <td>30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari (perpanjangan 27 Juni 2025)</td>
+                    <td>Atas Becak</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 4</strong></td>
+                    <td>07 Mei 2025</td>
+                    <td>Hari Ini Kawaii</td>
+                    <td>60 hari pertama (booking: rutz)</td>
+                    <td>Atas Truck Pickup</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 5</strong></td>
+                    <td>25 September 2024</td>
+                    <td>KynCore</td>
+                    <td>60 + 30 + 60 + 60 + 60 + 60 hari (perpanjangan 26 Juni 2025)</td>
+                    <td>Atas Adameng</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 6</strong></td>
+                    <td>04 Juni 2025</td>
+                    <td>Rishua</td>
+                    <td>60 hari pertama</td>
+                    <td>Atas Indomangan</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 7</strong></td>
+                    <td>04 Juni 2025</td>
+                    <td>Rishua</td>
+                    <td>60 hari pertama</td>
+                    <td>Atas Indomangan</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 8</strong></td>
+                    <td>23 Juni 2025</td>
+                    <td>Noche Haivest</td>
+                    <td>60 hari pertama</td>
+                    <td>Depan RM Padang</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 9</strong></td>
+                    <td>(Kosong)</td>
+                    <td></td>
+                    <td></td>
+                    <td>Depan Bangunan WIP</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 10</strong></td>
+                    <td>19 Desember 2024</td>
+                    <td>brownice</td>
+                    <td>30 + 30 + 30 + 30 + 60 hari (perpanjangan baru 19 Mei 2025)</td>
+                    <td>Depan Pom Bensin</td>
+                </tr>
+                <tr>
+                    <td><strong>Billboard 11</strong></td>
+                    <td>(Kosong)</td>
+                    <td></td>
+                    <td></td>
+                    <td>Hutan Putih</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <hr>
+
+        <h2>Status Poster</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Poster</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Poster 1</strong></td>
+                    <td>(Kosong)</td>
+                </tr>
+                <tr>
+                    <td><strong>Poster 2</strong></td>
+                    <td>(Kosong)</td>
+                </tr>
+                <tr>
+                    <td><strong>Poster 3</strong></td>
+                    <td>(Kosong)</td>
+                </tr>
+                <tr>
+                    <td><strong>Poster 4</strong></td>
+                    <td>(Kosong)</td>
+                </tr>
+                <tr>
+                    <td><strong>Poster 5</strong></td>
+                    <td>(Kosong)</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <hr>
+
+        <h2>Informasi Lainnya</h2>
+        <p><strong>Temporary Pause</strong>: (Kosong)</p>
+
+        <hr>
+
+        <h2>Jadwal Acara (Events)</h2>
+        <ul>
+            <li><strong>Panggung</strong>: Detail acara panggung akan diumumkan segera.</li>
+            <li><strong>Minigame Cari Barang</strong>: Informasi lebih lanjut mengenai minigame akan diumumkan.</li>
+        </ul>
+
+        <hr>
+
+        <p>Untuk pertanyaan lebih lanjut, silakan hubungi kami melalui repositori ini.</p>
+    </div>
+
+    <script>
+        // --- Fungsi untuk Collapse/Expand Billboard ---
+        function toggleBillboard(contentId, toggleBtnId) {
+            const content = document.getElementById(contentId);
+            const button = document.getElementById(toggleBtnId);
+
+            if (content.classList.contains('show')) {
+                content.classList.remove('show');
+                button.innerHTML = '&#9654;'; // Panah kanan (collapsed)
+                button.classList.remove('expanded');
+            } else {
+                content.classList.add('show');
+                button.innerHTML = '&#9660;'; // Panah bawah (expanded)
+                button.classList.add('expanded');
+            }
+        }
+
+        // --- Data Karosel Baru ---
+        const carouselData = {
+            'carousel-billboard1': [
+                {
+                    src: "https://rey8bit.github.io/pngkt_URL/url_image/billboard1.png",
+                    alt: "Billboard 1 - Slide 1",
+                    client: "bloodtypea"
+                },
+                {
+                    src: "https://rey8bit.github.io/pngkt_URL/url_image/billboard2.png",
+                    alt: "Billboard 1 - Slide 2",
+                    client: "Yurnero-"
+                },
+                {
+                    src: "https://raw.githubusercontent.com/USERNAME/NAMA_REPO_ANDA/main/images/billboard1_slide3.jpg", // Contoh URL yang mungkin rusak
+                    alt: "Billboard 1 - Slide 3",
+                    client: "Hari Ini Kawaii" // Contoh nama klien
+                }
+                // Tambahkan slide lain di sini jika ada
+            ]
+            // Jika ada karosel lain, tambahkan di sini dengan ID yang berbeda
+            /*
+            'carousel-billboardX': [
+                { src: "url_gambar_x1.jpg", alt: "Slide X1", client: "Nama Klien X1" },
+                { src: "url_gambar_x2.jpg", alt: "Slide X2", client: "Nama Klien X2" }
+            ]
+            */
+        };
+
+        let slideIndex = {}; // Objek untuk melacak indeks slide setiap karosel
+
+        // Fungsi untuk membuat dan menambahkan slide ke karosel
+        function createCarouselSlides(carouselId) {
+            const carousel = document.getElementById(carouselId);
+            if (!carousel) return;
+
+            const wrapper = carousel.querySelector(".carousel-wrapper");
+            const dotsContainer = carousel.querySelector(".slide-dots");
+            const slidesData = carouselData[carouselId];
+
+            if (!slidesData || slidesData.length === 0) {
+                wrapper.innerHTML = '<div class="carousel-slide"><span class="error-message">Tidak ada gambar untuk karosel ini.</span></div>';
+                dotsContainer.innerHTML = ''; // Hapus dots jika tidak ada slide
+                return;
+            }
+
+            wrapper.innerHTML = ''; // Bersihkan wrapper sebelum menambahkan slide baru
+            dotsContainer.innerHTML = ''; // Bersihkan dots sebelum menambahkan dots baru
+
+            slidesData.forEach((data, index) => {
+                const slideDiv = document.createElement('div');
+                slideDiv.classList.add('carousel-slide');
+
+                const img = document.createElement('img');
+                img.src = data.src;
+                img.alt = data.alt;
+
+                const errorMessage = document.createElement('span');
+                errorMessage.classList.add('error-message');
+                errorMessage.textContent = 'Gambar tidak ditemukan';
+
+                const clientNameSpan = document.createElement('span');
+                clientNameSpan.classList.add('client-name');
+                clientNameSpan.textContent = `Penyewa: ${data.client}`;
+
+                // Event listener untuk error gambar
+                img.onerror = function() {
+                    slideDiv.classList.add('error');
+                    img.style.display = 'none';
+                    errorMessage.style.display = 'block';
+                };
+
+                // Event listener untuk memuat gambar
+                img.onload = function() {
+                    slideDiv.classList.remove('error'); // Hapus kelas error jika gambar berhasil dimuat
+                    img.style.display = 'block';
+                    errorMessage.style.display = 'none';
+                };
+
+                slideDiv.appendChild(img);
+                slideDiv.appendChild(errorMessage);
+                slideDiv.appendChild(clientNameSpan); // Tambahkan nama klien ke slide
+
+                wrapper.appendChild(slideDiv);
+
+                const dot = document.createElement('span');
+                dot.classList.add('dot');
+                dot.onclick = () => currentSlide(carouselId, index + 1);
+                dotsContainer.appendChild(dot);
+            });
+        }
+
+        function showSlides(carouselId, n) {
+            const carousel = document.getElementById(carouselId);
+            if (!carousel) return;
+
+            const slides = carousel.querySelectorAll(".carousel-slide");
+            const dots = carousel.querySelectorAll(".dot");
+            const wrapper = carousel.querySelector(".carousel-wrapper");
+
+            if (!slideIndex[carouselId]) {
+                slideIndex[carouselId] = 0; // Inisialisasi indeks ke 0
+            }
+
+            slideIndex[carouselId] += n;
+
+            if (slideIndex[carouselId] >= slides.length) {
+                slideIndex[carouselId] = 0;
+            }
+            if (slideIndex[carouselId] < 0) {
+                slideIndex[carouselId] = slides.length - 1;
+            }
+
+            wrapper.style.transform = `translateX(${-slideIndex[carouselId] * 100}%)`;
+
+            dots.forEach((dot, index) => {
+                dot.classList.remove('active');
+                if (index === slideIndex[carouselId]) {
+                    dot.classList.add('active');
+                }
+            });
+        }
+
+        function changeSlide(carouselId, n) {
+            showSlides(carouselId, n);
+        }
+
+        function currentSlide(carouselId, n) {
+            slideIndex[carouselId] = n - 1;
+            showSlides(carouselId, 0);
+        }
+
+        // Inisialisasi semua slideshow saat halaman dimuat
+        document.addEventListener("DOMContentLoaded", function() {
+            const carousels = document.querySelectorAll('.carousel-container');
+            carousels.forEach(carousel => {
+                const carouselId = carousel.id;
+                createCarouselSlides(carouselId); // Buat slide dari data
+                slideIndex[carouselId] = 0; // Setel indeks awal ke 0
+                showSlides(carouselId, 0); // Tampilkan slide pertama (indeks 0)
+            });
+        });
+    </script>
+</body>
+</html>
