@@ -1,6 +1,6 @@
 # pngkt_URL (pindah ke url_image/_duration.md)
 <div align="center">
-  <a href="url_image/_duration.md" style="background-color:#007bff;color:#ffffff;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;margin-top:20px;">
+  <a href="url_image/_duration.MD" style="background-color:#007bff;color:#ffffff;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;margin-top:20px;">
     Lihat Durasi Lengkap
   </a>
 </div>
