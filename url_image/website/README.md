@@ -17,7 +17,4 @@ File `data.json` berisi konfigurasi untuk semua papan iklan.
 - Untuk `tanggalMulai` dan `durasiHari`, gunakan format yang ditentukan agar perhitungan status berfungsi.
 - Jika `slides` kosong atau tidak ada, data `penyewa`, `tanggalMulai`, dan `durasi` akan diambil dari level billboard utama (jika ada).
 
-- format { "file": "1.png",
-- "penyewa": "reynaldy",
-- "tanggalMulai": "2025-07-01",
-- "durasiHari": 30 }
+- format { "file": "1.png", "penyewa": "reynaldy", "tanggalMulai": "2025-07-01", "durasiHari": 30 }
