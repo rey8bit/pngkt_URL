@@ -1,0 +1,61 @@
+{
+  "billboards": [
+    {
+      "id": "billboard1",
+      "nama": "Billboard 1",
+      "posisi": "Depan Warmindo",
+      "slides": [
+        { "file": "2.png", "penyewa": "Yurnero-", "tanggalMulai": "2025-07-01", "durasiHari": 30 },
+        { "file": "3.png", "penyewa": "KynCore", "tanggalMulai": "2025-07-01", "durasiHari": 30 }
+      ]
+    },
+    {
+      "id": "billboard2",
+      "nama": "Billboard 2",
+      "posisi": "Depan Warnet",
+      "slides": [
+        { "file": "1.png", "penyewa": "Yurnero-", "tanggalMulai": "2025-06-10", "durasiHari": 30 },
+        { "file": "2.png", "penyewa": "Klien Baru A", "tanggalMulai": "2025-07-20", "durasiHari": 30 },
+        { "file": "3.png", "penyewa": "KynCore", "tanggalMulai": "2025-07-01", "durasiHari": 30 }
+      ]
+    },
+    {
+      "id": "billboard3",
+      "nama": "Billboard 3",
+      "posisi": "Atas Becak",
+      "slides": [ 
+        { "file": "2.png", "penyewa": "Klien Y", "tanggalMulai": "2025-02-01", "durasiHari": 60 }
+      ]
+    },
+    {
+      "id": "billboard4",
+      "nama": "Billboard 4",
+      "posisi": "Atas Truck Pick-up",
+      "slides": []
+    },
+    {
+      "id": "billboard5",
+      "nama": "Billboard 5: Gerbang Masuk",
+      "posisi": "Gerbang Utama",
+      "slides": []
+    },
+    {
+      "id": "billboard6",
+      "nama": "Billboard 6: Dekat Toilet Umum",
+      "posisi": "Dekat Toilet",
+      "slides": []
+    },
+    {
+      "id": "billboard7",
+      "nama": "Billboard 7: Area Parkir Motor",
+      "posisi": "Parkiran Motor",
+      "slides": []
+    },
+    {
+      "id": "billboard8",
+      "nama": "Billboard 8: Pintu Keluar Belakang",
+      "posisi": "Pintu Keluar",
+      "slides": []
+    }
+  ]
+}

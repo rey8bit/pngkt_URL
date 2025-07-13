@@ -1,0 +1,342 @@
+/* style.css */
+
+/* --- Reset dan Global Styles --- */
+* {
+    box-sizing: border-box; /* Memastikan padding dan border disertakan dalam total lebar/tinggi elemen */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    background-color: #282c34; /* Dark background */
+    color: #f8f8f2; /* Light text for readability */
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align content to the top */
+    min-height: 100vh; /* Minimum height for body */
+    padding: 20px;
+}
+
+.container {
+    background-color: #3a3f47; /* Slightly lighter dark container */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+    width: 100%;
+    max-width: 800px; /* Max width for better readability on large screens */
+}
+
+h1 {
+    color: #61dafb; /* Accent color for main title */
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.2em;
+    letter-spacing: 0.05em;
+}
+
+h3 {
+    color: #c5c5c5; /* Slightly lighter color for subheadings */
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+h4 {
+    color: #a8a8a8;
+    font-size: 1.1em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 8px;
+}
+
+/* --- Accordion Styles --- */
+.accordion-button {
+    background-color: #4c515a; /* Darker shade for buttons */
+    color: #ffffff;
+    cursor: pointer;
+    padding: 18px 25px; /* Lebih banyak padding */
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 1.2em; /* Ukuran font sedikit lebih besar */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px; /* Sudut sedikit lebih membulat */
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.accordion-button:hover {
+    background-color: #5a606b; /* Warna hover sedikit lebih terang */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.accordion-button.active {
+    background-color: #61dafb; /* Accent color when active */
+    color: #282c34; /* Dark text on active button */
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.accordion-button .icon {
+    font-size: 1.5em; /* Ukuran icon lebih besar */
+    transition: transform 0.3s ease;
+    line-height: 1; /* Pastikan icon tidak mempengaruhi tinggi baris */
+}
+
+.accordion-button.active .icon {
+    transform: rotate(90deg); /* Panah berputar ke bawah saat aktif */
+}
+
+.accordion-content {
+    padding: 0 25px; /* Padding disesuaikan dengan button */
+    background-color: #333840; /* Warna konten accordion yang lebih gelap */
+    max-height: 0; /* Awalnya tersembunyi */
+    overflow: hidden;
+    transition: max-height 0.5s ease-out, padding-top 0.5s ease-out, padding-bottom 0.5s ease-out;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-bottom: 15px;
+    color: #eee;
+}
+
+/* Penyesuaian padding untuk konten saat terbuka */
+.accordion-content[style*="max-height"]:not([style*="max-height: 0px"]) {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+
+/* --- Carousel Styles --- */
+.carousel-container {
+    position: relative;
+    width: 100%;
+    margin: 20px auto;
+    border-radius: 8px;
+    overflow: hidden; /* Penting untuk menyembunyikan slide di luar viewport */
+    background-color: #222; /* Background untuk area carousel */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+/* Rasio Box untuk menjaga rasio gambar */
+.carousel-ratio-box {
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (height / width * 100%) */
+    position: relative;
+    background-color: #000; /* Hitam saat gambar belum load atau error */
+}
+
+.carousel-wrapper {
+    display: flex; /* Untuk menempatkan slide secara horizontal */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform 0.6s ease-in-out; /* Animasi geser */
+}
+
+.carousel-slide {
+    min-width: 100%; /* Setiap slide mengambil 100% lebar wrapper */
+    position: relative;
+    overflow: hidden;
+    display: flex; /* Untuk centering konten di dalam slide */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Untuk menumpuk gambar dan teks */
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: 100%; /* Memenuhi tinggi container */
+    object-fit: contain; /* Memastikan gambar sepenuhnya terlihat dalam rasio box */
+    display: block; /* Menghilangkan spasi ekstra di bawah gambar */
+}
+
+.carousel-slide .client-name {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    white-space: nowrap; /* Mencegah teks wrapping */
+}
+
+/* Error styling for images */
+.carousel-slide.error {
+    background-color: #630000; /* Reddish background for error */
+    color: #ffcccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.carousel-slide.error img {
+    display: none; /* Hide broken image icon */
+}
+
+.carousel-slide .error-message {
+    display: none; /* Hidden by default */
+    font-size: 1em;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.carousel-slide.error .error-message {
+    display: block; /* Show on error */
+}
+
+
+.carousel-nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    padding: 12px 15px;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 50%; /* Tombol bulat */
+    outline: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    z-index: 10; /* Pastikan di atas slide */
+}
+
+.carousel-nav-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    transform: translateY(-50%) scale(1.1); /* Efek sedikit membesar saat hover */
+}
+
+.prev-slide {
+    left: 10px;
+}
+
+.next-slide {
+    right: 10px;
+}
+
+.slide-dots {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #2d3038; /* Background untuk dots */
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    margin: 0 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+.dot.active {
+    background-color: #61dafb; /* Accent color for active dot */
+}
+
+
+/* --- Status Colors --- */
+/* Pastikan kelas-kelas ini konsisten dengan output dari script.js */
+.current-status-info .status-sedang-berlangsung {
+    color: #4CAF50; /* Hijau */
+    font-weight: bold;
+}
+
+.current-status-info .status-akan-berakhir { 
+    color: #FF9800; /* Oranye untuk peringatan (akan berakhir) */
+    font-weight: bold;
+}
+
+.current-status-info .status-selesai {
+    color: #F44336; /* Merah */
+    font-weight: bold;
+}
+
+.current-status-info .status-hari-terakhir {
+    color: #FFC107; /* Kuning/Oranye terang untuk hari terakhir */
+    font-weight: bold;
+}
+
+.current-status-info .status-tidak-tersedia {
+    color: #9E9E9E; /* Abu-abu */
+    font-weight: normal;
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    .accordion-button {
+        font-size: 1.1em;
+        padding: 15px 20px;
+    }
+
+    .accordion-content {
+        padding: 0 20px;
+    }
+
+    .carousel-nav-btn {
+        padding: 8px 10px;
+        font-size: 1.2em;
+    }
+
+    .dot {
+        height: 10px;
+        width: 10px;
+        margin: 0 4px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        margin-bottom: 20px;
+    }
+
+    .accordion-button {
+        font-size: 1em;
+        padding: 12px 15px;
+    }
+
+    .accordion-content {
+        padding: 0 15px;
+    }
+
+    .carousel-nav-btn {
+        padding: 6px 8px;
+        font-size: 1em;
+    }
+}
