@@ -1,11 +1,11 @@
 pngkt_URL
 
 
-billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/6/27]
+billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/7/26]
 
 billboard2 : 27 Mei 2025 (Yurnero-) 60 hari
 
-billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/6/27]
+billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/7/26]
 
 billboard4 :  07 Mei 2025 (今日もkawaii) [60 hari pertama] [booking : rutz]
 
