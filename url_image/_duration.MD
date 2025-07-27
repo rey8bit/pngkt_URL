@@ -19,7 +19,7 @@ billboard8 : 23 Juni 2025 Noche Haivest [60 hari pertama]
 
 billboard9 : 
 
-billboard10 : 19 Desember 2024 (brownice) [30 + 30 + 30 + 30 + 60 hari perpanjangan baru 2025/05/19] 
+billboard10 : 19 Desember 2024 (brownice) [30 + 30 + 30 + 30 + 60 + 60 hari perpanjangan baru 2025/07/14] 
 
 billboard11 : 
 
