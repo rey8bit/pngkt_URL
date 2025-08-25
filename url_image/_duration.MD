@@ -1,11 +1,11 @@
 pngkt_URL
 
 
-billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/7/26]
+billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
 
 billboard2 : yibaron 17 Agustus 2025 [sampai akhir Agustus]
 
-billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/7/26]
+billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
 
 billboard4 :  [booking : rutz]
 
