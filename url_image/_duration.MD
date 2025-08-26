@@ -9,7 +9,7 @@ billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30
 
 billboard4 :  [booking : rutz]
 
-billboard5 : 25 September 2024 KynCore [60 + 30 + 60 + 60 + 60 + 60 hari (perpanjangan 2025/06/26)]
+billboard5 :
 
 billboard6 : 
 
