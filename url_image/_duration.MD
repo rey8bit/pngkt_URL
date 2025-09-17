@@ -23,7 +23,7 @@ billboard10 : 19 Desember 2024 (brownice) [30 + 30 + 30 + 30 + 60 + 60 hari perp
 
 billboard11 : 
 
-poster1 :
+poster1 : 17 Agustus 2025 (kiouka) 30 hari 1st
 
 poster2 :
 
