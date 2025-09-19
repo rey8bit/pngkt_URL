@@ -9,35 +9,47 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; /* Mencegah scroll horizontal yang tidak diinginkan */
+      }
+    
       body {
         font-family: 'Inter', sans-serif;
-        background-color: #0f172a; /* bg-slate-900 */
+        position: relative;
       }
 
-      #background-decoration {
+      /* Pseudo-element for the background image */
+      body::before {
+        content: '';
         position: fixed;
         top: 0;
-        right: 0;
-        bottom: 0;
-        width: 45vw; /* Lebar 45% dari viewport */
+        left: 0;
+        width: 100vw;
+        height: 100vh;
         background-image: url('https://rey8bit.github.io/pngkt_URL/chihiro.webp');
-        background-size: cover;
-        background-position: center 20%;
-        z-index: 0;
-        opacity: 0.18; /* Sedikit lebih terlihat */
-        pointer-events: none; /* Agar tidak bisa di-klik */
-        transition: opacity 0.5s ease, width 0.5s ease;
+        background-size: contain; /* Ensures the whole image is visible and maintains aspect ratio */
+        background-position: right;
+        background-repeat: no-repeat;
+        opacity: 0.25; /* 25% opacity for the image as requested */
+        z-index: -2; /* Place it behind everything else */
+        pointer-events: none;
       }
 
-      /* Efek gradien untuk membaurkan gambar dengan latar belakang */
-      #background-decoration::after {
+      /* Pseudo-element for the gradient overlay */
+      body::after {
         content: '';
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
-        right: 0;
-        bottom: 0;
-        background: linear-gradient(to left, transparent 20%, #0f172a 95%);
+        width: 100vw;
+        height: 100vh;
+        background: linear-gradient(to right, #0f172a 45%, transparent 85%);
+        z-index: -1; /* Place it on top of the image, but below content */
+        pointer-events: none;
       }
 
       /* Pastikan konten aplikasi utama berada di atas latar belakang */
@@ -48,12 +60,11 @@
       
       /* Penyesuaian untuk layar tablet dan lebih kecil */
       @media (max-width: 1024px) {
-        #background-decoration {
-          width: 100vw;
-          opacity: 0.10; /* Sedikit lebih terlihat di mobile */
+        body::before {
+          background-position: right;
         }
-        #background-decoration::after {
-          background: linear-gradient(to top, #0f172a 0%, transparent 50%, #0f172a 100%);
+        body::after {
+          background: linear-gradient(to top, #0f172a 15%, transparent 70%);
         }
       }
 
@@ -89,10 +100,9 @@
   }
 }
 </script>
-  <script type="module" crossorigin src="./assets/index-CCb9oIjH.js"></script>
+  <script type="module" crossorigin src="/assets/index-DPOVXGAF.js"></script>
 </head>
-  <body class="bg-slate-900">
-    <div id="background-decoration"></div>
+  <body>
     <div id="root"></div>
   </body>
 </html>
