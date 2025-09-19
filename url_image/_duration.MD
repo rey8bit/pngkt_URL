@@ -6,6 +6,7 @@ billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30
 billboard2 : 
 
 billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
+              20 September 2025 (Balmung) 60 hari
 
 billboard4 :  19 Agustus 2025 (muso) 30 hari
 
