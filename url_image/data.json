@@ -11,7 +11,7 @@
   },
   { 
     "id": 2, 
-    "location": "Rooftop Entrance",
+    "location": "Depan Warnet",
     "slots": [
       null,
       null,
@@ -20,7 +20,7 @@
   },
   { 
     "id": 3, 
-    "location": "Exhibition Hall 3",
+    "location": "Atas Becak",
     "slots": [
       { "tenant": "bloodtypea", "rentalStartDate": "2025-08-26", "rentalDuration": 30 },
       null,
@@ -29,7 +29,7 @@
   },
   { 
     "id": 4, 
-    "location": "Central Hub",
+    "location": "Atas Mobil Pickup",
     "slots": [
       null,
       { "tenant": "muso", "rentalStartDate": "2025-09-20", "rentalDuration": 30 },
@@ -38,7 +38,7 @@
   },
   {
     "id": 5,
-    "location": "The Void (Maintenance)",
+    "location": "Atas AdaMeng",
     "slots": [
       null,
       null,
@@ -47,7 +47,7 @@
   },
   {
     "id": 6,
-    "location": "The Void (Maintenance)",
+    "location": "Atas AdaMeng",
     "slots": [
       null,
       null,
@@ -56,7 +56,7 @@
   },
   {
     "id": 7,
-    "location": "The Void (Maintenance)",
+    "location": "Atas Indomangan",
     "slots": [
       null,
       null,
@@ -65,7 +65,7 @@
   },
   {
     "id": 8,
-    "location": "The Void (Maintenance)",
+    "location": "Atas Indomangan",
     "slots": [
       null,
       null,
@@ -74,7 +74,7 @@
   },
   {
     "id": 9,
-    "location": "The Void (Maintenance)",
+    "location": "Depan RM Padang (sebrang)",
     "slots": [
       null,
       null,
@@ -83,14 +83,14 @@
   },
   {
     "id": 10,
-    "location": "The Void (Maintenance)",
+    "location": "Depan RM Padang",
     "slots": [
     { "tenant": "brownice", "rentalStartDate": "2025-07-14", "rentalDuration": 60 }
     ]
   },
   {
     "id": 11,
-    "location": "The Void (Maintenance)",
+    "location": "Pom Bensin",
     "slots": [
       null,
       null,
@@ -99,7 +99,7 @@
   },
   {
     "id": 12,
-    "location": "The Void (Maintenance)",
+    "location": "Atas "HUTAN PUTIH"",
     "slots": [
       null,
       null,
