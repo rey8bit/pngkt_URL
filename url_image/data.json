@@ -85,16 +85,14 @@
     "id": 10,
     "location": "Depan RM Padang",
     "slots": [
-    { "tenant": "brownice", "rentalStartDate": "2025-07-14", "rentalDuration": 60 }
+    null
     ]
   },
   {
     "id": 11,
     "location": "Pom Bensin",
     "slots": [
-      null,
-      null,
-      null
+    { "tenant": "brownice", "rentalStartDate": "2025-07-14", "rentalDuration": 60 }
     ]
   },
   {
