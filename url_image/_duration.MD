@@ -3,11 +3,11 @@ pngkt_URL
 
 billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
 
-billboard2 : yibaron 17 Agustus 2025 [sampai akhir Agustus]
+billboard2 : 
 
 billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
 
-billboard4 :  [booking : rutz] muso 19 Agustus 2025 30 hari
+billboard4 :  19 Agustus 2025 (muso) 30 hari
 
 billboard5 :
 
@@ -36,6 +36,6 @@ poster5 :
 temp pause : 
 
 posisi :
-billboard 1 = depan warmindo, billboard2 = depan warnet, billboard3 = atas becak, billboard4 = atas truck pickup, billboard5 = atas adameng, billboard6 7 = atas indomangan, billboard8 = depang rm padang, billboard9 = depan bangunan wip, billboard 10 = depan pom bensin, billboard11 = hutan putih
+billboard 1 = depan warmindo, billboard2 = depan warnet, billboard3 = atas becak, billboard4 = atas truck pickup, billboard5,6 = atas adameng, billboard7,8 = atas indomangan, billboard9 = depang rm padang, billboard10 = depan bangunan wip, billboard11 = depan pom bensin, billboard12 = hutan putih
 
 event : 1. panggung 2. minigame cari barang
