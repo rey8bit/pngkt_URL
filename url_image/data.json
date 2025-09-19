@@ -1,0 +1,48 @@
+
+[
+  { 
+    "id": 1, 
+    "location": "Main Plaza, West Wing",
+    "slots": [
+      null,
+      null,
+      { "tenant": "Synthwave Cafe", "rentalStartDate": "2024-08-15", "rentalDuration": 60 }
+    ]
+  },
+  { 
+    "id": 2, 
+    "location": "Rooftop Entrance",
+    "slots": [
+      { "tenant": "Synth Riders Arena", "rentalStartDate": "2024-06-20", "rentalDuration": 45 },
+      { "tenant": "Beat Saber Corner", "rentalStartDate": "2024-10-01", "rentalDuration": 30 },
+      { "tenant": "VR Dance Club", "rentalStartDate": "2024-11-11", "rentalDuration": 75 }
+    ]
+  },
+  { 
+    "id": 3, 
+    "location": "Exhibition Hall 3",
+    "slots": [
+      { "tenant": "Art & Chill Gallery", "rentalStartDate": "2024-10-05", "rentalDuration": 120 },
+      { "tenant": "Lofi Music Stream", "rentalStartDate": "2024-10-05", "rentalDuration": 365 },
+      { "tenant": "Community Announcements", "rentalStartDate": "2024-05-01", "rentalDuration": 30 }
+    ]
+  },
+  { 
+    "id": 4, 
+    "location": "Central Hub",
+    "slots": [
+      null,
+      { "tenant": "Weekly Event Info", "rentalStartDate": "2024-09-01", "rentalDuration": 365 },
+      null
+    ]
+  },
+  {
+    "id": 5,
+    "location": "The Void (Maintenance)",
+    "slots": [
+      null,
+      null,
+      null
+    ]
+  }
+]
