@@ -1,12 +1,10 @@
-(temp) Update 2025.09.14 [SDK 3.8.2] WIP
-[karena sibuk ngurus server :v]
+(temp) Update 2025.09.20 [SDK 3.9.0 beta.1] WIP
 - penambahan toggle Double Jump
 - penambahan LOD beberapa properti statik
 - penghapusan LOD pada objek dinamis
 - menambah kode untuk mempercepat lari dan lompat (Speed Up) bisa ditoggle
-- penambahan slot iklan berslide (gambar tetap bisa terhubung ke github)
+- penambahan slot dan perubahan lokasi iklan berslide (gambar tetap bisa terhubung ke github)
 - beberapa fix-fix kecil
-Website mungkin akan dibuat untuk melihat iklan (statik HTML via github, mungkin?)
 
 MS-VRCSA Billiards buatan Neko Mabel and Sacchan
 Snappable Chess Set buatan VowganVR
@@ -19,7 +17,5 @@ Syarat pasang iklan di billboard :
 - Maksimal piksel panjang maupun lebar 2048 piksel
 - Format PNG
 - Biaya per bulan 50rb (pertama kali pasang 20rb, maksimal 2 bulan)
-
 Catatan : Diluar topik VRChat/Vtuber ada biaya tambahan 25rb
-
 Terimakasih :D
