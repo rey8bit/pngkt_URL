@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manajer Billboard VRChat</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+        background-color: #0f172a; /* bg-slate-900 */
+      }
+
+      #background-decoration {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        width: 45vw; /* Lebar 45% dari viewport */
+        background-image: url('https://rey8bit.github.io/pngkt_URL/chihiro.webp');
+        background-size: cover;
+        background-position: center 20%;
+        z-index: 0;
+        opacity: 0.18; /* Sedikit lebih terlihat */
+        pointer-events: none; /* Agar tidak bisa di-klik */
+        transition: opacity 0.5s ease, width 0.5s ease;
+      }
+
+      /* Efek gradien untuk membaurkan gambar dengan latar belakang */
+      #background-decoration::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(to left, transparent 20%, #0f172a 95%);
+      }
+
+      /* Pastikan konten aplikasi utama berada di atas latar belakang */
+      #root {
+        position: relative;
+        z-index: 1;
+      }
+      
+      /* Penyesuaian untuk layar tablet dan lebih kecil */
+      @media (max-width: 1024px) {
+        #background-decoration {
+          width: 100vw;
+          opacity: 0.10; /* Sedikit lebih terlihat di mobile */
+        }
+        #background-decoration::after {
+          background: linear-gradient(to top, #0f172a 0%, transparent 50%, #0f172a 100%);
+        }
+      }
+
+      /* Animasi untuk Skeleton Loader */
+      @keyframes shimmer {
+        0% { background-position: -1000px 0; }
+        100% { background-position: 1000px 0; }
+      }
+      .animate-shimmer {
+        background: linear-gradient(to right, #1e293b 4%, #334155 25%, #1e293b 36%);
+        background-size: 2000px 100%;
+        animation: shimmer 2s infinite linear;
+      }
+      
+      /* Animasi untuk transisi konten */
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animate-fade-in {
+        animation: fadeIn 0.4s ease-out forwards;
+      }
+
+    </style>
+
+<link rel="stylesheet" href="/index.css">
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.1.1",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.1/",
+    "react/": "https://esm.sh/react@^19.1.1/"
+  }
+}
+</script>
+  <script type="module" crossorigin src="./assets/index-CCb9oIjH.js"></script>
+</head>
+  <body class="bg-slate-900">
+    <div id="background-decoration"></div>
+    <div id="root"></div>
+  </body>
+</html>
