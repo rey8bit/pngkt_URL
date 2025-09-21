@@ -82,7 +82,7 @@
     "id": 11,
     "location": "Pom Bensin",
     "slots": [
-    { "tenant": "brownice", "rentalStartDate": "2025-07-14", "rentalDuration": 60 }
+    null
     ]
   },
   {
