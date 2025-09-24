@@ -4,7 +4,7 @@
     "id": 1, 
     "location": "Depan Ada Meng",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-08-26", "rentalDuration": 30 },
+      null,
       null,
       null
     ]
@@ -40,7 +40,7 @@
     "id": 5,
     "location": "Atas AdaMeng",
     "slots": [
-      null
+      { "tenant": "bloodtypea", "rentalStartDate": "2025-08-26", "rentalDuration": 30 }
     ]
   },
   {
