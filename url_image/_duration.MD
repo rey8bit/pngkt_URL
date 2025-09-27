@@ -26,7 +26,7 @@ billboard11 :
 
 poster1 : 17 Agustus 2025 (kiouka) 30 hari 1st
 
-poster2 :
+poster2 : 28 September 2025 (YoungLee) 60 hari
 
 poster3 : 
 
