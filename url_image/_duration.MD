@@ -1,16 +1,16 @@
 pngkt_URL
 
 
-billboard1 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
+billboard1 : 
 
-billboard2 : 
+billboard2 : brownice 14 Oktober 2025 30 hari
 
 billboard3 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
               20 September 2025 (Balmung) 60 hari
 
-billboard4 :  19 Agustus 2025 (muso) 30 hari
+billboard4 :  
 
-billboard5 :
+billboard5 : 26 Oktober 2024 (bloodtypea) [30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 + 30 hari perpanjangan 2025/8/26]
 
 billboard6 : 
 
@@ -20,7 +20,7 @@ billboard8 :
 
 billboard9 : 
 
-billboard10 : 19 Desember 2024 (brownice) [30 + 30 + 30 + 30 + 60 + 60 hari perpanjangan baru 2025/07/14] 
+billboard10 : 
 
 billboard11 : 
 
