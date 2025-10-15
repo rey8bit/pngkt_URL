@@ -16,7 +16,7 @@
     "location": "Depan Warnet",
     "slots": [
       null,
-      null,
+      { "tenant": "Brownice-", "rentalStartDate": "2025-10-15", "rentalDuration": 30 },
       null
     ]
   },
@@ -25,7 +25,7 @@
     "type": "billboard",
     "location": "Atas Becak",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-09-26", "rentalDuration": 30 },
+      null,
       { "tenant": "Balmung", "rentalStartDate": "2025-09-20", "rentalDuration": 60 },
       null
     ]
@@ -77,7 +77,7 @@
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
-      null
+      { "tenant": "kiouka", "rentalStartDate": "2025-08-17", "rentalDuration": 30 }
     ]
   },
   {
@@ -85,7 +85,7 @@
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
-    null
+    { "tenant": "TanYoungLee", "rentalStartDate": "2025-09-28", "rentalDuration": 60 }
     ]
   },
   {
