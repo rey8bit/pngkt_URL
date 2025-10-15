@@ -1,7 +1,8 @@
 
 [
   { 
-    "id": 1, 
+    "id": 1,
+    "type": "billboard",
     "location": "Depan Ada Meng",
     "slots": [
       null,
@@ -10,7 +11,8 @@
     ]
   },
   { 
-    "id": 2, 
+    "id": 2,
+    "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
       null,
@@ -19,7 +21,8 @@
     ]
   },
   { 
-    "id": 3, 
+    "id": 3,
+    "type": "billboard",
     "location": "Atas Becak",
     "slots": [
       { "tenant": "bloodtypea", "rentalStartDate": "2025-09-26", "rentalDuration": 30 },
@@ -28,7 +31,8 @@
     ]
   },
   { 
-    "id": 4, 
+    "id": 4,
+    "type": "billboard",
     "location": "Atas Mobil Pickup",
     "slots": [
       null,
@@ -38,58 +42,74 @@
   },
   {
     "id": 5,
-    "location": "Atas AdaMeng",
+    "type": "billboard",
+    "location": "Pom Bensin",
     "slots": [
       { "tenant": "bloodtypea", "rentalStartDate": "2025-09-26", "rentalDuration": 30 }
     ]
   },
   {
     "id": 6,
-    "location": "Atas AdaMeng",
+    "type": "billboard",
+    "location": "Atas HUTAN PUTIH",
     "slots": [
       null
     ]
   },
   {
     "id": 7,
-    "location": "Atas Indomangan",
+    "type": "billboard",
+    "location": "Depan RM Padang",
     "slots": [
       null
     ]
   },
   {
     "id": 8,
-    "location": "Atas Indomangan",
+    "type": "billboard",
+    "location": "Pertigaan Ujung",
     "slots": [
       null
     ]
   },
   {
     "id": 9,
-    "location": "Depan RM Padang (sebrang)",
+    "type": "poster",
+    "location": "Kaca AdaMeng",
     "slots": [
       null
     ]
   },
   {
     "id": 10,
-    "location": "Depan RM Padang",
+    "type": "poster",
+    "location": "Kaca AdaMeng",
     "slots": [
     null
     ]
   },
   {
     "id": 11,
-    "location": "Pom Bensin",
+    "type": "poster",
+    "location": "Kaca Indomangan",
     "slots": [
     null
     ]
   },
   {
     "id": 12,
-    "location": "Atas 'HUTAN PUTIH'",
+    "type": "poster",
+    "location": "Kaca Indomangan",
     "slots": [
       null
+    ]
+  },
+  {
+    "id": 13,
+    "type": "poster",
+    "location": "Kaca Indomangan",
+    "slots": [
+    null
     ]
   }
 ]
