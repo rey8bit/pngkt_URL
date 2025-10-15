@@ -1,4 +1,4 @@
-(temp) Update 2025.09.20 [SDK 3.9.0 beta.1] WIP
+Update 2025.10.16 [SDK 3.9.0] WIP
 - penambahan toggle Double Jump
 - penambahan LOD beberapa properti statik
 - penghapusan LOD pada objek dinamis
