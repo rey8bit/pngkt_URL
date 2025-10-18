@@ -77,7 +77,7 @@
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
-      { "tenant": "kiouka", "rentalStartDate": "2025-08-17", "rentalDuration": 30 }
+      null
     ]
   },
   {
