@@ -36,7 +36,7 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       null,
-      { "tenant": "muso", "rentalStartDate": "2025-09-20", "rentalDuration": 30 },
+      null,
       null
     ]
   },
