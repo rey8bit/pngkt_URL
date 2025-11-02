@@ -7,7 +7,7 @@
     "slots": [
       null,
       null,
-      null
+      { "tenant": "bloodtypea", "rentalStartDate": "2025-10-26", "rentalDuration": 30 }
     ]
   },
   { 
@@ -45,7 +45,7 @@
     "type": "billboard",
     "location": "Pom Bensin",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-10-26", "rentalDuration": 30 }
+      null
     ]
   },
   {
