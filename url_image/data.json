@@ -5,9 +5,9 @@
     "type": "billboard",
     "location": "Depan Ada Meng",
     "slots": [
+      { "tenant": "bloodtypea", "rentalStartDate": "2025-10-26", "rentalDuration": 30 },
       null,
-      null,
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-10-26", "rentalDuration": 30 }
+      null
     ]
   },
   { 
@@ -16,7 +16,7 @@
     "location": "Depan Warnet",
     "slots": [
       null,
-      { "tenant": "Brownice-", "rentalStartDate": "2025-10-15", "rentalDuration": 30 },
+      { "tenant": "Brownice-", "rentalStartDate": "2025-11-14", "rentalDuration": 30 },
       null
     ]
   },
