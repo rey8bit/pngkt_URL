@@ -1,8 +1,8 @@
-[update delay dulu, mau keluar kota]
-Update 2025.10.16 [SDK 3.9.0] WIP
-- penyesuaian LOD untuk PC ketika player ubah setting LODnya Low, Medium, dan High. Android soon™
+Update 2025.11.18 [SDK 3.9.1 beta.2] WIP
+- update barengan ketiga platform (PC, Android, iOS)
+- penyesuaian LOD untuk ketiga platform
 - menambah kode untuk mempercepat lari dan lompat (Speed Up) bisa ditoggle
-- penambahan slot dan perubahan lokasi iklan berslide (gambar tetap bisa terhubung ke github)
+- perubahan animasi iklan berslide (gambar tetap bisa terhubung ke github)
 - beberapa fix-fix kecil
 
 MS-VRCSA Billiards buatan Neko Mabel and Sacchan
