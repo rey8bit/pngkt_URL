@@ -5,6 +5,8 @@ Update 2025.11.18 [SDK 3.9.1 beta.2] WIP
 - perubahan animasi iklan berslide (gambar tetap bisa terhubung ke github)
 - beberapa fix-fix kecil
 
+- mobil sementara diremove, tanyakan jika ingin dipakai lagi
+
 MS-VRCSA Billiards buatan Neko Mabel and Sacchan
 Snappable Chess Set buatan VowganVR
 Chikuwa Vehicles System 2 buatan ちくわ屋 [Booth: yoshio-will]
