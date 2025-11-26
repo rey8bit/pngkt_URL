@@ -5,7 +5,7 @@
     "type": "billboard",
     "location": "Depan Ada Meng",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-10-26", "rentalDuration": 30 },
+      { "tenant": "bloodtypea", "rentalStartDate": "2025-11-26", "rentalDuration": 30 },
       null,
       null
     ]
@@ -25,9 +25,9 @@
     "type": "billboard",
     "location": "Atas Becak",
     "slots": [
-      null,
+      { "tenant": "bloodtypea", "rentalStartDate": "2025-11-26", "rentalDuration": 30 },
       { "tenant": "Balmung", "rentalStartDate": "2025-09-20", "rentalDuration": 60 },
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-10-26", "rentalDuration": 30 }
+      null
     ]
   },
   { 
