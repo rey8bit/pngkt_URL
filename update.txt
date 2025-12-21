@@ -1,4 +1,4 @@
-Update 2025.11.18 [SDK 3.10.1] WIP
+Update 2025.12.21 [SDK 3.10.1] WIP
 + update barengan ketiga platform (PC, Android, iOS)
 - pengurangan billboard berslide menjadi 2 slide saja
 • beberapa fix-fix kecil
