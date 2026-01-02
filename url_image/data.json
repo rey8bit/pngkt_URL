@@ -15,7 +15,7 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      null,
+      { "tenant": "ellacore", "rentalStartDate": "2026-01-03", "rentalDuration": 30 },
       { "tenant": "Kazami Yori", "rentalStartDate": "2026-01-02", "rentalDuration": 30 },
       null
     ]
@@ -36,8 +36,8 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       { "tenant": "kiouka", "rentalStartDate": "2025-12-09", "rentalDuration": 30 },
-      { "tenant": "kiouka", "rentalStartDate": "2025-12-09", "rentalDuration": 30 },
-      { "tenant": "kiouka", "rentalStartDate": "2025-12-09", "rentalDuration": 30 }
+      { "tenant": "ellacore", "rentalStartDate": "2026-01-03", "rentalDuration": 30 },
+      null
     ]
   },
   {
@@ -93,7 +93,7 @@
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
-    { "tenant": "event", "rentalStartDate": "2025-09-28", "rentalDuration": 365 }
+    null
     ]
   },
   {
@@ -101,7 +101,7 @@
     "type": "poster",
     "location": "Kaca Indomangan",
     "slots": [
-    { "tenant": "event", "rentalStartDate": "2025-09-28", "rentalDuration": 365 }
+    null
     ]
   },
   {
@@ -109,7 +109,7 @@
     "type": "poster",
     "location": "Kaca Indomangan",
     "slots": [
-      { "tenant": "event", "rentalStartDate": "2025-09-28", "rentalDuration": 365 }
+      null
     ]
   },
   {
@@ -117,7 +117,7 @@
     "type": "poster",
     "location": "Kaca Indomangan",
     "slots": [
-    { "tenant": "event", "rentalStartDate": "2025-09-28", "rentalDuration": 365 }
+    null
     ]
   }
 ]
