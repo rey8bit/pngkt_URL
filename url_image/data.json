@@ -61,7 +61,7 @@
     "type": "billboard",
     "location": "Depan RM Padang",
     "slots": [
-      null
+      { "tenant": "yana", "rentalStartDate": "2026-01-03", "rentalDuration": 30 }
     ]
   },
   {
