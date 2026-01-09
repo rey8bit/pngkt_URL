@@ -35,7 +35,7 @@
     "type": "billboard",
     "location": "Atas Mobil Pickup",
     "slots": [
-      { "tenant": "kiouka", "rentalStartDate": "2025-12-09", "rentalDuration": 30 },
+      { "tenant": "alter10", "rentalStartDate": "2026-01-10", "rentalDuration": 30 },
       { "tenant": "ellacore", "rentalStartDate": "2026-01-03", "rentalDuration": 30 },
       null
     ]
