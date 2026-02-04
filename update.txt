@@ -3,6 +3,7 @@ Update 2025.12.21 [SDK 3.10.1] WIP
 - pengurangan billboard berslide menjadi 2 slide saja
 • beberapa fix-fix kecil
 
+Simple String Loader buatan DrBlackRat
 MS-VRCSA Billiards buatan Neko Mabel and Sacchan
 Snappable Chess dan 3rd person camera Set buatan VowganVR
 Chikuwa Vehicles System 2 buatan ちくわ屋 [Booth: yoshio-will]
