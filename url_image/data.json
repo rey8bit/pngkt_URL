@@ -5,8 +5,8 @@
     "type": "billboard",
     "location": "Depan Ada Meng",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-12-26", "rentalDuration": 30 },
-      { "tenant": "Kazami Yori", "rentalStartDate": "2026-01-02", "rentalDuration": 30 },
+      { "tenant": "bloodtypea", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
+      null,
       null
     ]
   },
@@ -15,8 +15,8 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      { "tenant": "ellacore", "rentalStartDate": "2026-01-03", "rentalDuration": 30 },
-      { "tenant": "Kazami Yori", "rentalStartDate": "2026-01-02", "rentalDuration": 30 },
+      null,
+      { "tenant": "dr Slebew", "rentalStartDate": "2026-02-07", "rentalDuration": 420 },
       null
     ]
   },
@@ -25,7 +25,7 @@
     "type": "billboard",
     "location": "Atas Becak",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2025-12-26", "rentalDuration": 30 },
+      { "tenant": "bloodtypea", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
       { "tenant": "clioneart", "rentalStartDate": "2025-12-17", "rentalDuration": 60 },
       null
     ]
@@ -36,7 +36,7 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       { "tenant": "alter10", "rentalStartDate": "2026-01-10", "rentalDuration": 30 },
-      { "tenant": "ellacore", "rentalStartDate": "2026-01-03", "rentalDuration": 30 },
+      null,
       null
     ]
   },
