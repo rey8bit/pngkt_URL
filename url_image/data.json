@@ -15,7 +15,7 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      null,
+      { "tenant": "yana", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
       { "tenant": "dr Slebew", "rentalStartDate": "2026-02-07", "rentalDuration": 420 },
       null
     ]
