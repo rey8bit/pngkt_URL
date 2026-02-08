@@ -16,7 +16,7 @@
     "location": "Depan Warnet",
     "slots": [
       { "tenant": "yana", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
-      { "tenant": "self_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
+      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
       null
     ]
   },
@@ -36,7 +36,7 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       { "tenant": "alter10", "rentalStartDate": "2026-01-10", "rentalDuration": 30 },
-      { "tenant": "self_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
+      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
       null
     ]
   },
