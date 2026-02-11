@@ -35,7 +35,7 @@
     "type": "billboard",
     "location": "Atas Mobil Pickup",
     "slots": [
-      { "tenant": "alter10", "rentalStartDate": "2026-01-10", "rentalDuration": 30 },
+      null,
       { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
       null
     ]
