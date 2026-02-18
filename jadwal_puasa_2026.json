@@ -1,21 +1,15 @@
 {
-    "_cities_list": "Jakarta,Bandung,Surabaya,Banjarmasin,Makassar,Medan",
-    "Jakarta_city": "DKI Jakarta",
-    "Jakarta_1": "04:32|04:42|18:10|19:21",
-    "Jakarta_2": "04:32|04:42|18:10|19:21",
-    "Bandung_city": "Bandung",
-    "Bandung_1": "04:30|04:40|18:11|19:21",
-    "Bandung_2": "04:30|04:40|18:11|19:21",
-    "Medan_city": "Kota Medan",
-    "Medan_1": "05:05|05:15|18:40|19:50",
-    "Medan_2": "05:05|05:15|18:40|19:50",
-    "Surabaya_city": "Surabaya",
-    "Surabaya_1": "04:25|04:35|18:15|19:25",
-    "Surabaya_2": "04:25|04:35|18:15|19:25",
-    "Banjarmasin_city": "Banjarmasin",
-    "Banjarmasin_1": "04:40|04:50|18:20|19:30",
-    "Banjarmasin_2": "04:40|04:50|18:20|19:30",
-    "Makassar_city": "Makassar",
-    "Makassar_1": "04:45|04:55|18:25|19:35",
-    "Makassar_2": "04:45|04:55|18:25|19:35"
+     "_cities_list": "Jakarta,Banjarmasin,Makassar,Jayapura",
+    
+     "Jakarta_city": "DKI Jakarta",
+     "Jakarta_utc": "7",
+     "Jakarta_1": "04:32|04:42|18:10|19:21",
+
+     "Banjarmasin_city": "Banjarmasin",
+     "Banjarmasin_utc": "8",
+     "Banjarmasin_1": "05:01|05:11|18:35|19:46",
+
+     "Jayapura_city": "Jayapura",
+     "Jayapura_utc": "9",
+     "Jayapura_1": "04:15|04:25|17:45|18:55"
 }
