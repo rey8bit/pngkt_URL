@@ -6,7 +6,7 @@
     "location": "Depan Ada Meng",
     "slots": [
       { "tenant": "bloodtypea", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
-      null,
+      { "tenant": "yana", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
       null
     ]
   },
@@ -15,7 +15,7 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      { "tenant": "yana", "rentalStartDate": "2026-02-07", "rentalDuration": 60 },
+      { "tenant": "yana", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
       { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
       null
     ]
