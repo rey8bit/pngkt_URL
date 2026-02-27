@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manajer Iklan VRChat</title>
+
+    <meta property="og:title" content="Manajer Billboard VRChat - Status Slot Iklan" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rey8bit.github.io/pngkt_URL/url_image/index.html" />
+    <meta property="og:description" content="Lihat status sewa dan detail slot iklan VRChat." />
+    <meta property="og:image" content="https://rey8bit.github.io/pngkt_URL/url_image/thumb.png" />
+    <meta name="twitter:card" content="summary_large_image">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; /* Mencegah scroll horizontal yang tidak diinginkan */
+      }
+    
+      body {
+        font-family: 'Inter', sans-serif;
+        position: relative;
+        background-color: #030824;
+      }
+
+      /* Pseudo-element for the background image */
+      body::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-image: url('https://rey8bit.github.io/pngkt_URL/chihiro.webp');
+        background-size: contain; /* Ensures the whole image is visible and maintains aspect ratio */
+        background-position: right;
+        background-repeat: no-repeat;
+        opacity: 0.25; /* 25% opacity for the image as requested */
+        z-index: 0; /* Place it behind everything else */
+        pointer-events: none;
+      }
+
+      /* Pseudo-element for the gradient overlay */
+      body::after {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: linear-gradient(to right, #0f172a 45%, transparent 85%);
+        z-index: -1; /* Place it on top of the image, but below content */
+        pointer-events: none;
+      }
+
+      /* Pastikan konten aplikasi utama berada di atas latar belakang */
+      #root {
+        position: relative;
+        z-index: 1;
+      }
+      
+      /* Penyesuaian untuk layar tablet dan lebih kecil */
+      @media (max-width: 1024px) {
+        body::before {
+          background-position: right;
+        }
+        body::after {
+          background: linear-gradient(to top, #0f172a 15%, transparent 70%);
+        }
+      }
+
+      /* Animasi untuk Skeleton Loader */
+      @keyframes shimmer {
+        0% { background-position: -1000px 0; }
+        100% { background-position: 1000px 0; }
+      }
+      .animate-shimmer {
+        background: linear-gradient(to right, #1e293b 4%, #334155 25%, #1e293b 36%);
+        background-size: 2000px 100%;
+        animation: shimmer 2s infinite linear;
+      }
+      
+      /* Animasi untuk transisi konten */
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animate-fade-in {
+        animation: fadeIn 0.4s ease-out forwards;
+      }
+
+    </style>
+
+<link rel="stylesheet" href="/index.css">
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.1.1",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.1/",
+    "react/": "https://esm.sh/react@^19.1.1/"
+  }
+}
+</script>
+  <script type="module" crossorigin src="./assets/index-CCMgncpw.js"></script>
+</head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

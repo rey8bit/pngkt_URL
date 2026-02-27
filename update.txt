@@ -1,0 +1,25 @@
+Update 2026.02.19 [SDK 3.10.1] WIP
++ update barengan ketiga platform (PC, Android, iOS)
++ update fitur test #1 : jadwal Ramadhan, type string, bisa request jika punya jadwal
++ update fitur test #2 : voicezone. masih percobaan
+• atur billboard slide jadi 15 detik
+• beberapa fix-fix kecil
+
+Simple String Loader buatan DrBlackRat
+MS-VRCSA Billiards buatan Neko Mabel and Sacchan
+Snappable Chess dan 3rd person camera Set buatan VowganVR
+Chikuwa Vehicles System 2 buatan ちくわ屋 [Booth: yoshio-will]
+Canvas Instance Information buatan みきねるすとあ  [Booth: nmxi]
+PC Quest Platform Mark buatan dimebag29 [Booth: dimebag29]
+
+Syarat pasang iklan di billboard :
+- Billboard aspek rasio 16:9
+- Poster aspek rasio 3:4
+- Maksimal piksel panjang maupun lebar 2048 piksel
+- Format PNG
+- Biaya 30 hari 75rb (promo pertama kali pasang 20rb, maksimal 60 hari)
+Catatan : Diluar topik VRChat/Vtuber ada biaya tambahan 25rb
+Terimakasih :D
+
+mari join ikut guild Blue Protocol server SEA 
+12941 Walpurgisnacht :D

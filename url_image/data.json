@@ -1,0 +1,123 @@
+
+[
+  { 
+    "id": 1,
+    "type": "billboard",
+    "location": "Depan Ada Meng",
+    "slots": [
+      { "tenant": "bloodtypea", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
+      { "tenant": "yana", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
+      null
+    ]
+  },
+  { 
+    "id": 2,
+    "type": "billboard",
+    "location": "Depan Warnet",
+    "slots": [
+      { "tenant": "yana", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
+      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
+      null
+    ]
+  },
+  { 
+    "id": 3,
+    "type": "billboard",
+    "location": "Atas Becak",
+    "slots": [
+      { "tenant": "bloodtypea", "rentalStartDate": "2026-02-07", "rentalDuration": 30 },
+      { "tenant": "clioneart", "rentalStartDate": "2025-12-17", "rentalDuration": 60 },
+      null
+    ]
+  },
+  { 
+    "id": 4,
+    "type": "billboard",
+    "location": "Atas Mobil Pickup",
+    "slots": [
+      { "tenant": "yana", "rentalStartDate": "2026-02-19", "rentalDuration": 30 },
+      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
+      null
+    ]
+  },
+  {
+    "id": 5,
+    "type": "billboard",
+    "location": "Atas AdaMeng",
+    "slots": [
+      { "tenant": "KynCore", "rentalStartDate": "2025-12-24", "rentalDuration": 90 }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "billboard",
+    "location": "Atas HUTAN PUTIH",
+    "slots": [
+      null
+    ]
+  },
+  {
+    "id": 7,
+    "type": "billboard",
+    "location": "Depan RM Padang",
+    "slots": [
+      { "tenant": "yana", "rentalStartDate": "2026-01-03", "rentalDuration": 30 }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "billboard",
+    "location": "Pertigaan Ujung",
+    "slots": [
+      null
+    ]
+  },
+  {
+    "id": 9,
+    "type": "billboard",
+    "location": "Atas AdaMeng",
+    "slots": [
+      null
+    ]
+  },
+  {
+    "id": 10,
+    "type": "poster",
+    "location": "Kaca AdaMeng",
+    "slots": [
+      { "tenant": "Brownice", "rentalStartDate": "2026-02-20", "rentalDuration": 30 }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "poster",
+    "location": "Kaca AdaMeng",
+    "slots": [
+    { "tenant": "Ler Na", "rentalStartDate": "2026-02-28", "rentalDuration": 30 }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "poster",
+    "location": "Kaca Indomangan",
+    "slots": [
+    null
+    ]
+  },
+  {
+    "id": 13,
+    "type": "poster",
+    "location": "Kaca Indomangan",
+    "slots": [
+      null
+    ]
+  },
+  {
+    "id": 14,
+    "type": "poster",
+    "location": "Kaca Indomangan",
+    "slots": [
+    null
+    ]
+  }
+]
