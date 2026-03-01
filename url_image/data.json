@@ -36,7 +36,7 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       { "tenant": "yana", "rentalStartDate": "2026-02-19", "rentalDuration": 30 },
-      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
+      { "tenant": "Balmung", "rentalStartDate": "2026-03-01", "rentalDuration": 365 },
       null
     ]
   },
