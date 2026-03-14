@@ -45,7 +45,7 @@
     "type": "billboard",
     "location": "Atas AdaMeng",
     "slots": [
-      { "tenant": "KynCore", "rentalStartDate": "2025-12-24", "rentalDuration": 90 }
+      { "tenant": "KynCore", "rentalStartDate": "2025-12-24", "rentalDuration": 150 }
     ]
   },
   {
