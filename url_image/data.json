@@ -13,7 +13,7 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
+      { "tenant": "Qrotoq", "rentalStartDate": "2026-02-07", "rentalDuration": "event" },
       null
     ]
   },
