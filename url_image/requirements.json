@@ -1,0 +1,19 @@
+
+{
+  "billboard": {
+    "title": "Billboard (Landscape)",
+    "dimensions": "Maks. 2048px (Sesuai Rasio)",
+    "format": "PNG",
+    "ratio": "16:9"
+  },
+  "poster": {
+    "title": "Poster (Portrait)",
+    "dimensions": "Maks. 2048px (Sesuai Rasio)",
+    "format": "PNG",
+    "ratio": "4:3"
+  },
+  "general": [
+    "Pastikan gambar memiliki resolusi tinggi agar tidak pecah di dalam game.",
+    "Hindari teks yang terlalu kecil atau terlalu pinggir."
+  ]
+}
