@@ -1,16 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="id">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Manajer Iklan VRChat</title>
-
-    <meta property="og:title" content="Manajer Billboard VRChat - Status Slot Iklan" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://rey8bit.github.io/pngkt_URL/url_image/index.html" />
-    <meta property="og:description" content="Lihat status sewa dan detail slot iklan VRChat." />
-    <meta property="og:image" content="https://rey8bit.github.io/pngkt_URL/url_image/thumb.png" />
-    <meta name="twitter:card" content="summary_large_image">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +21,7 @@
       body {
         font-family: 'Inter', sans-serif;
         position: relative;
-        background-color: #030824;
+        background-color: #041d58;
       }
 
       /* Pseudo-element for the background image */
@@ -89,11 +83,36 @@
       
       /* Animasi untuk transisi konten */
       @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(10px); }
-        to { opacity: 1; transform: translateY(0); }
+        from { opacity: 0; transform: scale(0.98); }
+        to { opacity: 1; transform: scale(1); }
       }
       .animate-fade-in {
-        animation: fadeIn 0.4s ease-out forwards;
+        animation: fadeIn 0.3s ease-out forwards;
+      }
+
+      @keyframes fadeOut {
+        from { opacity: 1; transform: scale(1); }
+        to { opacity: 0; transform: scale(0.98); }
+      }
+      .animate-fade-out {
+        animation: fadeOut 0.3s ease-in forwards;
+      }
+
+      /* Custom Scrollbar for Webkit */
+      .custom-scrollbar::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-track {
+        background: rgba(30, 41, 59, 0.5); 
+        border-radius: 4px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb {
+        background: rgba(71, 85, 105, 0.8); 
+        border-radius: 4px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        background: rgba(100, 116, 139, 1); 
       }
 
     </style>
@@ -104,11 +123,12 @@
   "imports": {
     "react": "https://esm.sh/react@^19.1.1",
     "react-dom/": "https://esm.sh/react-dom@^19.1.1/",
-    "react/": "https://esm.sh/react@^19.1.1/"
+    "react/": "https://esm.sh/react@^19.1.1/",
+    "react-dom": "https://esm.sh/react-dom@^19.2.4"
   }
 }
 </script>
-  <script type="module" crossorigin src="./assets/index-CCMgncpw.js"></script>
+  <script type="module" crossorigin src="./assets/index-BTezYWjx.js"></script>
 </head>
   <body>
     <div id="root"></div>
