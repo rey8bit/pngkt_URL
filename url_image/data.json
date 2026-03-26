@@ -1,4 +1,3 @@
-
 [
   { 
     "id": 1,
@@ -14,8 +13,8 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      null,
-      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 }
+      { "tenant": "selfhost_BPSR_SEA", "rentalStartDate": "2026-02-07", "rentalDuration": 365 },
+      null
     ]
   },
   { 
@@ -33,7 +32,7 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       null,
-      { "tenant": "Balmung", "rentalStartDate": "2026-03-01", "rentalDuration": "event" },
+      { "tenant": "Balmung", "rentalStartDate": "2026-03-01", "rentalDuration": "event" }
     ]
   },
   {
@@ -57,7 +56,7 @@
     "type": "billboard",
     "location": "Depan RM Padang",
     "slots": [
-      { "tenant": "yana", "rentalStartDate": "2026-01-03", "rentalDuration": 30 }
+      null
     ]
   },
   {
@@ -70,14 +69,6 @@
   },
   {
     "id": 9,
-    "type": "billboard",
-    "location": "Atas AdaMeng",
-    "slots": [
-      null
-    ]
-  },
-  {
-    "id": 10,
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
@@ -85,7 +76,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 10,
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
@@ -93,7 +84,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 11,
     "type": "poster",
     "location": "Kaca Indomangan",
     "slots": [
@@ -101,7 +92,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 12,
     "type": "poster",
     "location": "Kaca Indomangan",
     "slots": [
@@ -109,7 +100,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 13,
     "type": "poster",
     "location": "Kaca Indomangan",
     "slots": [
