@@ -14,7 +14,7 @@
     "location": "Depan Warnet",
     "slots": [
       { "tenant": "Qrotoq", "rentalStartDate": "2026-02-07", "rentalDuration": "event" },
-      { "tenant": "Pemenang Lomba", "rentalStartDate": "2026-03-30", "rentalDuration": "60" }
+      { "tenant": "Pemenang Lomba", "rentalStartDate": "2026-03-30", "rentalDuration": 60 }
     ]
   },
   { 
