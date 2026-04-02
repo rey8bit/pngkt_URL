@@ -72,7 +72,7 @@
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
-      { "tenant": "VRCI", "rentalStartDate": "2026-02-20", "rentalDuration": "event" }
+      { "tenant": "Brownice", "rentalStartDate": "2026-04-02", "rentalDuration": "60" }
     ]
   },
   {
