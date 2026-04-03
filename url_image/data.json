@@ -4,8 +4,8 @@
     "type": "billboard",
     "location": "Depan Ada Meng",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2026-03-13", "rentalDuration": 30 },
-      null
+      { "tenant": "Kris", "rentalStartDate": "2026-04-03", "rentalDuration": 60 },
+      { "tenant": "bloodtypea", "rentalStartDate": "2026-03-13", "rentalDuration": 30 }
     ]
   },
   { 
@@ -31,7 +31,7 @@
     "type": "billboard",
     "location": "Atas Mobil Pickup",
     "slots": [
-      null,
+      { "tenant": "Kris", "rentalStartDate": "2026-04-03", "rentalDuration": 60 },
       { "tenant": "Balmung", "rentalStartDate": "2026-03-01", "rentalDuration": "event" }
     ]
   },
@@ -46,7 +46,7 @@
   {
     "id": 6,
     "type": "billboard",
-    "location": "Atas HUTAN PUTIH",
+    "location": "Pom Bensin",
     "slots": [
       null
     ]
@@ -54,7 +54,7 @@
   {
     "id": 7,
     "type": "billboard",
-    "location": "Depan RM Padang",
+    "location": "Atas HUTAN PUTIH",
     "slots": [
       null
     ]
@@ -62,7 +62,7 @@
   {
     "id": 8,
     "type": "billboard",
-    "location": "Pertigaan Ujung",
+    "location": "Depan RM Padang",
     "slots": [
       null
     ]
