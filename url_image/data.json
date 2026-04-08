@@ -23,7 +23,7 @@
     "location": "Atas Becak",
     "slots": [
       { "tenant": "bloodtypea", "rentalStartDate": "2026-03-13", "rentalDuration": 30 },
-      null
+      { "tenant": "yana", "rentalStartDate": "2026-04-08", "rentalDuration": 60 }
     ]
   },
   { 
