@@ -5,7 +5,7 @@
     "location": "Depan Ada Meng",
     "slots": [
       { "tenant": "Kris", "rentalStartDate": "2026-04-03", "rentalDuration": 60 },
-      { "tenant": "bloodtypea", "rentalStartDate": "2026-03-13", "rentalDuration": 30 }
+      { "tenant": "bloodtypea", "rentalStartDate": "2026-04-17", "rentalDuration": 30 }
     ]
   },
   { 
@@ -22,7 +22,7 @@
     "type": "billboard",
     "location": "Atas Becak",
     "slots": [
-      { "tenant": "bloodtypea", "rentalStartDate": "2026-03-13", "rentalDuration": 30 },
+      { "tenant": "bloodtypea", "rentalStartDate": "2026-04-17", "rentalDuration": 30 },
       { "tenant": "yana", "rentalStartDate": "2026-04-08", "rentalDuration": 60 }
     ]
   },
