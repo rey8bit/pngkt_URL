@@ -31,8 +31,8 @@
     "type": "billboard",
     "location": "Atas Mobil Pickup",
     "slots": [
-      { "tenant": "Kris", "rentalStartDate": "2026-04-03", "rentalDuration": 60 },
-      { "tenant": "Franky", "rentalStartDate": "2026-05-11", "rentalDuration": 30 }
+      { "tenant": "kiouka", "rentalStartDate": "2026-06-12", "rentalDuration": 30 },
+      { "tenant": "Franky", "rentalStartDate": "2026-06-12", "rentalDuration": 30 }
     ]
   },
   {
