@@ -1,9 +1,8 @@
-Update 2026.03.08 [SDK 3.10.2] WIP
+Update 2026.06.18 [SDK 3.10.4] WIP
 
-+ Menambahkan kembali CVS2 dengan fitur tombol transfer ownership (beta)
-• beberapa fix-fix kecil dan optimisasi?
-
-Terimakasih kepada ~Nekohime~ dan Reznya untuk pencerahannya
++ menambahkan Position Sync (kemarin sempat ditambah, jadi broken)
+• optimisasi pemisahan mesh FBX yang besar bertahap untuk perbaikan pencahayaan yang rusak
+Next (slow) update : penggantian script dan pemisahan mesh (optimisasi)
 
 Simple String Loader buatan DrBlackRat
 MS-VRCSA Billiards buatan Neko Mabel and Sacchan
