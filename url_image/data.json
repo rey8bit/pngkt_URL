@@ -4,8 +4,8 @@
     "type": "billboard",
     "location": "Depan Ada Meng",
     "slots": [
-      { "tenant": "Kris", "rentalStartDate": "2026-04-03", "rentalDuration": 60 },
-      { "tenant": "bloodtypea", "rentalStartDate": "2026-04-17", "rentalDuration": 30 }
+      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
+      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 }
     ]
   },
   { 
@@ -13,7 +13,7 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      { "tenant": "NASES", "rentalStartDate": "2026-04-10", "rentalDuration": 60 },
+      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
       { "tenant": "Pemenang Lomba", "rentalStartDate": "2026-03-30", "rentalDuration": 60 }
     ]
   },
@@ -23,7 +23,7 @@
     "location": "Atas Becak",
     "slots": [
       { "tenant": "maidialfaruq", "rentalStartDate": "2026-06-17", "rentalDuration": 60 },
-      { "tenant": "yana", "rentalStartDate": "2026-04-08", "rentalDuration": 60 }
+      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 }
     ]
   },
   { 
@@ -32,7 +32,7 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       { "tenant": "kiouka", "rentalStartDate": "2026-06-12", "rentalDuration": 30 },
-      { "tenant": "Franky", "rentalStartDate": "2026-06-12", "rentalDuration": 30 }
+      { "tenant": "kiouka", "rentalStartDate": "2026-06-12", "rentalDuration": 60 }
     ]
   },
   {
