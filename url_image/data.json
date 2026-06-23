@@ -14,7 +14,7 @@
     "location": "Depan Warnet",
     "slots": [
       { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
-      { "tenant": "Pemenang Lomba", "rentalStartDate": "2026-03-30", "rentalDuration": 60 }
+      { "tenant": "Balmung", "rentalStartDate": "2026-06-23", "rentalDuration": "event" }
     ]
   },
   { 
@@ -32,7 +32,7 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       { "tenant": "kiouka", "rentalStartDate": "2026-06-12", "rentalDuration": 30 },
-      { "tenant": "kiouka", "rentalStartDate": "2026-06-12", "rentalDuration": 60 }
+      { "tenant": "kiouka", "rentalStartDate": "2026-06-12", "rentalDuration": 30 }
     ]
   },
   {
@@ -72,7 +72,7 @@
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
-      { "tenant": "Brownice", "rentalStartDate": "2026-04-03", "rentalDuration": 60 }
+      { "tenant": "Balmung", "rentalStartDate": "2026-06-23", "rentalDuration": "event" }
     ]
   },
   {
@@ -80,7 +80,7 @@
     "type": "poster",
     "location": "Kaca AdaMeng",
     "slots": [
-    null
+     {"tenant": "Balmung", "rentalStartDate": "2026-06-23", "rentalDuration": "event" }
     ]
   },
   {
