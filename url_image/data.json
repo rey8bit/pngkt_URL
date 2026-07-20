@@ -64,7 +64,7 @@
     "type": "billboard",
     "location": "Depan RM Padang",
     "slots": [
-      null
+      { "tenant": "buncisoup", "rentalStartDate": "2026-07-21", "rentalDuration": "30" }
     ]
   },
   {
