@@ -104,7 +104,7 @@
     "type": "poster",
     "location": "Kaca Indomangan",
     "slots": [
-    null
+    { "tenant": "Event", "rentalStartDate": "2026-08-08", "rentalDuration": "event" }
     ]
   }
 ]
