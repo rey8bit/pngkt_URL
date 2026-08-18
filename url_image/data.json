@@ -5,7 +5,9 @@
     "location": "Depan Ada Meng",
     "slots": [
       { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
-      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 }
+      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
+      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" },
+      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" }
     ]
   },
   { 
@@ -14,7 +16,9 @@
     "location": "Depan Warnet",
     "slots": [
       { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
-      { "tenant": "harukaa", "rentalStartDate": "2026-08-05", "rentalDuration": 60 }
+      { "tenant": "harukaa", "rentalStartDate": "2026-08-05", "rentalDuration": 60 },
+      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" },
+      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" }
     ]
   },
   { 
@@ -23,7 +27,9 @@
     "location": "Atas Becak",
     "slots": [
       { "tenant": "maidialfaruq", "rentalStartDate": "2026-06-17", "rentalDuration": 60 },
-      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 }
+      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
+      null,
+      null
     ]
   },
   { 
@@ -32,7 +38,9 @@
     "location": "Atas Mobil Pickup",
     "slots": [
       { "tenant": "kiouka", "rentalStartDate": "2026-07-14", "rentalDuration": 60 },
-      { "tenant": "kiouka", "rentalStartDate": "2026-07-14", "rentalDuration": 60 }
+      { "tenant": "kiouka", "rentalStartDate": "2026-07-14", "rentalDuration": 60 },
+      null,
+      null
     ]
   },
   {
@@ -40,7 +48,7 @@
     "type": "billboard",
     "location": "Atas AdaMeng",
     "slots": [
-      { "tenant": "Balmung (ganti KynCore/aripeko)", "rentalStartDate": "2025-12-24", "rentalDuration": 270 }
+      { "tenant": "KynCore/aripeko)", "rentalStartDate": "2025-12-24", "rentalDuration": 270 }
     ]
   },
   {
