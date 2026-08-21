@@ -6,8 +6,8 @@
     "slots": [
       { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
       { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
-      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" },
-      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" }
+      { "tenant": "pomu", "rentalStartDate": "2026-07-23", "rentalDuration": 60 },
+      null
     ]
   },
   { 
@@ -17,8 +17,8 @@
     "slots": [
       { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
       { "tenant": "harukaa", "rentalStartDate": "2026-08-05", "rentalDuration": 60 },
-      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" },
-      { "tenant": "pomu", "rentalStartDate": "2026-07-18", "rentalDuration": "event" }
+      { "tenant": "pomu", "rentalStartDate": "2026-07-23", "rentalDuration": 60 },
+      null
     ]
   },
   { 
@@ -26,7 +26,7 @@
     "type": "billboard",
     "location": "Atas Becak",
     "slots": [
-      { "tenant": "maidialfaruq", "rentalStartDate": "2026-06-17", "rentalDuration": 60 },
+      { "tenant": "GaKira_", "rentalStartDate": "2026-08-23", "rentalDuration": 60 },
       { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
       null,
       null
