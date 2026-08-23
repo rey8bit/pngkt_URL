@@ -4,9 +4,9 @@
     "type": "billboard",
     "location": "Depan Ada Meng",
     "slots": [
-      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
-      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
+      { "tenant": "Ozhy (10k)", "rentalStartDate": "2026-08-25", "rentalDuration": 90 },
       { "tenant": "pomu", "rentalStartDate": "2026-07-23", "rentalDuration": 60 },
+      null,
       null
     ]
   },
@@ -15,9 +15,9 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
       { "tenant": "harukaa", "rentalStartDate": "2026-08-05", "rentalDuration": 60 },
       { "tenant": "pomu", "rentalStartDate": "2026-07-23", "rentalDuration": 60 },
+      null,
       null
     ]
   },
@@ -27,7 +27,7 @@
     "location": "Atas Becak",
     "slots": [
       { "tenant": "GaKira_", "rentalStartDate": "2026-08-23", "rentalDuration": 60 },
-      { "tenant": "Ozhy", "rentalStartDate": "2026-06-23", "rentalDuration": 60 },
+      null,
       null,
       null
     ]
