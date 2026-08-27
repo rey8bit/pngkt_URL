@@ -27,7 +27,7 @@
     "location": "Atas Becak",
     "slots": [
       { "tenant": "GaKira_", "rentalStartDate": "2026-08-23", "rentalDuration": 60 },
-      null,
+      { "tenant": "yana", "rentalStartDate": "2026-08-28", "rentalDuration": 45 },
       null,
       null
     ]
@@ -48,7 +48,7 @@
     "type": "billboard",
     "location": "Atas AdaMeng",
     "slots": [
-      { "tenant": "KynCore/aripeko)", "rentalStartDate": "2025-12-24", "rentalDuration": 270 }
+      { "tenant": "KynCore/aripeko", "rentalStartDate": "2025-12-24", "rentalDuration": 270 }
     ]
   },
   {
