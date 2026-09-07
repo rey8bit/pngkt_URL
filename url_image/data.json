@@ -39,7 +39,7 @@
     "slots": [
       { "tenant": "kiouka", "rentalStartDate": "2026-07-14", "rentalDuration": 60 },
       { "tenant": "kiouka", "rentalStartDate": "2026-07-14", "rentalDuration": 60 },
-      null,
+      { "tenant": "terifihs", "rentalStartDate": "2026-09-09", "rentalDuration": 30 },
       null
     ]
   },
