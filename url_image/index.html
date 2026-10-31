@@ -28,7 +28,7 @@
         height: 100%;
         margin: 0;
         padding: 0;
-        overflow-x: hidden; /* Mencegah scroll horizontal yang tidak diinginkan */
+        overflow-x: hidden;
       }
     
       body {
@@ -37,7 +37,6 @@
         background-color: #041d58;
       }
 
-      /* Pseudo-element for the background image */
       body::before {
         content: '';
         position: fixed;
@@ -46,15 +45,14 @@
         width: 100vw;
         height: 100vh;
         background-image: url('https://rey8bit.github.io/pngkt_URL/chihiro.webp');
-        background-size: contain; /* Ensures the whole image is visible and maintains aspect ratio */
+        background-size: contain;
         background-position: right;
         background-repeat: no-repeat;
-        opacity: 0.25; /* 25% opacity for the image as requested */
-        z-index: 0; /* Place it behind everything else */
+        opacity: 0.25;
+        z-index: 0;
         pointer-events: none;
       }
 
-      /* Pseudo-element for the gradient overlay */
       body::after {
         content: '';
         position: fixed;
@@ -63,17 +61,15 @@
         width: 100vw;
         height: 100vh;
         background: linear-gradient(to right, #0f172a 45%, transparent 85%);
-        z-index: -1; /* Place it on top of the image, but below content */
+        z-index: -1;
         pointer-events: none;
       }
 
-      /* Pastikan konten aplikasi utama berada di atas latar belakang */
       #root {
         position: relative;
         z-index: 1;
       }
       
-      /* Penyesuaian untuk layar tablet dan lebih kecil */
       @media (max-width: 1024px) {
         body::before {
           background-position: right;
@@ -83,7 +79,6 @@
         }
       }
 
-      /* Animasi untuk Skeleton Loader */
       @keyframes shimmer {
         0% { background-position: -1000px 0; }
         100% { background-position: 1000px 0; }
@@ -94,7 +89,6 @@
         animation: shimmer 2s infinite linear;
       }
       
-      /* Animasi untuk transisi konten */
       @keyframes fadeIn {
         from { opacity: 0; transform: scale(0.98); }
         to { opacity: 1; transform: scale(1); }
@@ -110,8 +104,6 @@
       .animate-fade-out {
         animation: fadeOut 0.3s ease-in forwards;
       }
-
-      /* Custom Scrollbar for Webkit */
       .custom-scrollbar::-webkit-scrollbar {
         width: 8px;
         height: 8px;
@@ -127,7 +119,6 @@
       .custom-scrollbar::-webkit-scrollbar-thumb:hover {
         background: rgba(100, 116, 139, 1); 
       }
-
     </style>
 
 <link rel="stylesheet" href="/index.css">
