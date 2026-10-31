@@ -1,0 +1,114 @@
+.ad-quick-nav {
+  position: sticky;
+  top: 5rem;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  width: fit-content;
+  max-width: 100%;
+  margin: -1.5rem auto 1.5rem;
+  padding: 0.5rem;
+  border: 1px solid rgb(71 85 105 / 65%);
+  border-radius: 9999px;
+  background: rgb(15 23 42 / 88%);
+  box-shadow: 0 12px 32px rgb(2 6 23 / 25%);
+  backdrop-filter: blur(16px);
+}
+
+.ad-quick-nav__label {
+  padding-left: 0.75rem;
+  color: #94a3b8;
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.ad-quick-nav__tabs {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.ad-quick-nav__tab {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 2.5rem;
+  padding: 0.5rem 0.875rem;
+  border: 1px solid transparent;
+  border-radius: 9999px;
+  background: transparent;
+  color: #cbd5e1;
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition:
+    color 160ms ease,
+    background-color 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease;
+}
+
+.ad-quick-nav__tab:hover {
+  border-color: rgb(148 163 184 / 25%);
+  background: rgb(51 65 85 / 60%);
+  color: #fff;
+}
+
+.ad-quick-nav__tab:active {
+  transform: scale(0.97);
+}
+
+.ad-quick-nav__tab:focus-visible {
+  outline: 2px solid #60a5fa;
+  outline-offset: 2px;
+}
+
+.ad-quick-nav__tab[aria-pressed="true"] {
+  border-color: rgb(59 130 246 / 45%);
+  background: rgb(37 99 235 / 20%);
+  color: #bfdbfe;
+}
+
+.ad-quick-nav__count {
+  display: inline-grid;
+  min-width: 1.25rem;
+  height: 1.25rem;
+  place-items: center;
+  border-radius: 9999px;
+  background: rgb(51 65 85 / 80%);
+  color: #cbd5e1;
+  font-size: 0.7rem;
+}
+
+.ad-quick-nav__tab[aria-pressed="true"] .ad-quick-nav__count {
+  background: rgb(37 99 235 / 35%);
+  color: #dbeafe;
+}
+
+@media (max-width: 640px) {
+  .ad-quick-nav {
+    top: 7rem;
+    justify-content: space-between;
+    width: 100%;
+    margin: -1rem auto 1.25rem;
+    border-radius: 1rem;
+  }
+
+  .ad-quick-nav__label {
+    padding-left: 0.5rem;
+  }
+
+  .ad-quick-nav__tab {
+    padding-inline: 0.65rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ad-quick-nav__tab {
+    transition: none;
+  }
+}
