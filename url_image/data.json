@@ -15,7 +15,7 @@
     "type": "billboard",
     "location": "Depan Warnet",
     "slots": [
-      { "tenant": "harukaa", "rentalStartDate": "2026-08-05", "rentalDuration": 60 },
+      { "tenant": "aether (yuki)", "rentalStartDate": "2026-11-10", "rentalDuration": 60 },
       { "tenant": "pomu", "rentalStartDate": "2026-07-23", "rentalDuration": 60 },
       null,
       null
