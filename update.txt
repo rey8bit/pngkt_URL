@@ -1,4 +1,4 @@
-Update 2026.08.16 [SDK 3.10.6] WIP
+Update 2026.11.10 [SDK 3.10.6] WIP
 
 • optimisasi pemisahan mesh FBX yang besar bertahap untuk perbaikan pencahayaan yang rusak
 • optimisasi beberapa script lagi
